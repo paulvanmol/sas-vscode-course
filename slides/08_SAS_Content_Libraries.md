@@ -20,7 +20,7 @@ Both populate automatically when you have an active connection.
 
 ### Slide 2 — SAS Content (Viya Only)
 
-The SAS Content panel mirrors your SAS Viya content repository — the same folders you see in SAS Studio's Explorer.
+The SAS Content panel mirrors your SAS Viya content repository — the same folders you see in SAS Studio's Explorer on Viya.
 
 What you can do:
 - Browse folders and files
@@ -30,7 +30,7 @@ What you can do:
 - Download server files locally
 - Create and delete folders
 
-"Your SAS Studio files are right here — no need to switch to a browser."
+"Your Viya content files are accessible right here — no need to switch to a browser."
 
 ---
 

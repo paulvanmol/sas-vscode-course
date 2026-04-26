@@ -8,7 +8,7 @@
 
 ### Slide 1 — Title Slide
 
-**PSGEL999: SAS Extension for Visual Studio Code**  
+**SAS Extension for Visual Studio Code**  
 *A Hands-On Workshop*
 
 SAS Global Enablement and Learning

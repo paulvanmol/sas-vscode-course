@@ -1,4 +1,4 @@
-# PSGEL999: SAS Extension for Visual Studio Code
+# SAS Extension for Visual Studio Code
 ## Hands-On Workshop
 
 **Course Type:** Instructor-Led Workshop  
@@ -19,14 +19,15 @@ The course covers all connection types supported by the SAS Extension — local 
 
 ## Why VS Code for SAS?
 
-SAS programmers have traditionally worked in SAS-specific tools: SAS Display Manager, SAS Enterprise Guide, or SAS Studio. VS Code offers something different:
+SAS programmers have traditionally worked in SAS-specific tools: SAS Display Manager, SAS Enterprise Guide, or SAS Studio. It is worth noting that **SAS Studio on Viya has evolved significantly** — it now runs on a VS Code web engine, supports Git, Python, R (Code Editor from 2026.04), and integrates with SAS Viya Copilot for AI assistance. If SAS Studio on Viya meets your needs, it is a strong choice.
 
-- **No browser required** — a locally installed client that works offline
-- **Multi-language** — write SAS, SQL, Python, and R in the same workspace
-- **SAS Notebooks** — combine code, output, and narrative in one document
-- **Git built in** — version control without leaving the editor
-- **AI assistance** — GitHub Copilot and SAS Viya Copilot integrate directly
-- **Free and open source** — available to everyone, on every platform
+VS Code as a locally installed client adds things that a browser-based tool cannot:
+
+- **No browser required** — a locally installed client that works fully offline
+- **Connects to all SAS environments** — Viya, SAS 9.4 local, SAS 9.4 IOM, SAS 9.4 SSH — from one tool
+- **GitHub Copilot** — works with any connection type, free tier available to all GitHub users
+- **Full VS Code extension ecosystem** — thousands of extensions beyond what any browser IDE offers
+- **Your environment** — settings, shortcuts, and extensions configured once, used everywhere
 
 ---
 
@@ -76,7 +77,7 @@ Each topic follows this pattern:
 ## Repository Structure
 
 ```
-PSGEL999-vscode-sas/
+sas-vscode-course/
 ├── README.md                          ← This file
 ├── slides/                            ← Slide outlines per topic
 │   ├── 00_Introduction.md
@@ -167,16 +168,16 @@ Requires Python 3.7+ and the `requests` library (`pip install requests`).
 Before the workshop begins:
 
 1. **Fork this repository** to your GitHub account  
-   → Click **Fork** at the top of this page
+   → Click **Fork** at the top of **https://github.com/paulvanmol/sas-vscode-course**
 
 2. **Clone your fork** to your local machine  
    ```bash
-   git clone https://github.com/<your-username>/PSGEL999-vscode-sas
+   git clone https://github.com/<your-username>/sas-vscode-course
    ```
 
 3. **Open the folder in VS Code**  
    ```bash
-   code PSGEL999-vscode-sas
+   code sas-vscode-course
    ```
 
 4. **Install the SAS extension**  

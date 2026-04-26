@@ -8,34 +8,51 @@
 
 ### Slide 1 — The SAS Developer's Toolkit Today
 
-*Show a visual of the traditional SAS tools:*
+*Show a visual of the SAS coding tools available:*
 
-| Tool | Where it runs | Best for |
+| Tool | Where it runs | Strengths |
 |------|--------------|---------|
-| SAS Display Manager | Local Windows | SAS 9.4 interactive |
-| SAS Enterprise Guide | Local Windows | Point-and-click + code |
-| SAS Studio | Browser (Viya/9.4) | Web-based coding |
-| **VS Code + SAS Extension** | **Local, any OS** | **Modern development** |
+| SAS Display Manager | Local Windows | SAS 9.4 interactive, classic interface |
+| SAS Enterprise Guide | Local Windows | Point-and-click + code, task-driven |
+| SAS Studio (Viya) | Browser — VS Code web engine | Git, Python, R, AI Copilot, notebooks |
+| SAS Studio (9.4) | Browser | Web-based SAS coding |
+| **VS Code + SAS Extension** | **Local, any OS** | **Locally installed, offline, multi-language, AI** |
 
-"These tools are not competitors — they serve different needs. VS Code fills a gap that the others don't."
-
----
-
-### Slide 2 — The Problem with Browser-Based Tools
-
-SAS Studio is excellent, but browser-based tools have limitations:
-
-- **Requires a network connection** to the SAS server at all times
-- **No offline editing** — you cannot write code when disconnected
-- **Limited Git integration** — version control is an afterthought
-- **Single language** — SAS Studio is for SAS; you switch tools for Python
-- **No AI coding assistants** — GitHub Copilot does not work in a browser IDE
-
-"If you work on a laptop, travel, or collaborate with data scientists who use Python, these limitations matter."
+"These tools are not competitors — they serve different needs. Understanding where each one fits helps you choose the right tool for the job."
 
 ---
 
-### Slide 3 — VS Code: A Locally Installed Client
+### Slide 2 — SAS Studio on Viya: More Capable Than You May Think
+
+Before we talk about VS Code's advantages, it is worth being accurate about SAS Studio on Viya:
+
+**SAS Studio (Viya) has evolved significantly:**
+- Runs on a **VS Code web engine** — the same editor core as VS Code desktop
+- Supports **Git integration** for version control directly in the browser
+- Supports **Python** coding (stable) and **R** coding (PROC R stable from 2026.03; R in the Code Editor from 2026.04)
+- Integrates with **SAS Viya Copilot** for AI-assisted code generation, explanation, and documentation
+- Supports **SAS Notebooks** for mixed-language, narrative-style analysis
+
+"SAS Studio on Viya is a strong, modern tool. If you are already using it and it meets your needs, that is a valid choice."
+
+---
+
+### Slide 3 — So Why VS Code?
+
+Given that SAS Studio on Viya is capable, VS Code still offers things it cannot:
+
+- **Locally installed client** — works fully offline; no browser, no network required to edit code
+- **Connects to all SAS environments** — Viya, SAS 9.4 local, SAS 9.4 remote IOM, SAS 9.4 SSH — from one tool
+- **GitHub Copilot** — works with any connection type, not just Viya; free tier available to all GitHub users
+- **Full VS Code extension ecosystem** — thousands of extensions for linting, themes, database tools, Docker, and more
+- **Your environment, your machine** — settings, shortcuts, and extensions you configure once and use everywhere
+- **Works without a SAS Viya deployment** — critical for SAS 9.4 shops or mixed environments
+
+"VS Code is the right choice when you need to work across multiple SAS environments, work offline, or want the full desktop development experience."
+
+---
+
+### Slide 4 — VS Code: A Locally Installed Client
 
 VS Code is installed on your machine, not in a browser:
 
@@ -61,7 +78,7 @@ Your Machine                          SAS Server
 
 ---
 
-### Slide 4 — Multi-Language Development
+### Slide 5 — Multi-Language Development
 
 Modern analytics rarely uses just one language. A typical project might:
 
@@ -77,7 +94,7 @@ In VS Code, all of this happens in one editor, one workspace, one Git repository
 
 ---
 
-### Slide 5 — SAS Notebooks: Code + Story Together
+### Slide 6 — SAS Notebooks: Code + Story Together
 
 Traditional SAS development:
 
@@ -98,7 +115,7 @@ notebook.sasnb  =  code + output + explanation, all in one file
 
 ---
 
-### Slide 6 — Git: Version Control Built In
+### Slide 7 — Git: Version Control Built In
 
 "How do you currently manage versions of your SAS programs?"
 
@@ -115,7 +132,7 @@ VS Code has Git built in:
 
 ---
 
-### Slide 7 — AI Assistance: GitHub Copilot
+### Slide 8 — AI Assistance: GitHub Copilot
 
 GitHub Copilot is an AI pair programmer that:
 
@@ -131,7 +148,7 @@ It works with SAS. It knows SAS syntax, procedures, and common patterns.
 
 ---
 
-### Slide 8 — AI Assistance: SAS Viya Copilot
+### Slide 9 — AI Assistance: SAS Viya Copilot
 
 For SAS Viya users, there is also a SAS-specific AI extension:
 
@@ -146,34 +163,36 @@ Requires SAS Viya 4 (release 2025.05 or later) and administrator setup.
 
 ---
 
-### Slide 9 — When to Use VS Code vs. Other Tools
+### Slide 10 — When to Use VS Code vs. Other Tools
 
 | Situation | Best Tool |
 |-----------|-----------|
-| Quick ad-hoc query on Viya | SAS Studio |
-| Point-and-click data prep | SAS Enterprise Guide |
+| Quick ad-hoc query, already in a browser | SAS Studio (Viya) |
+| Point-and-click data prep and tasks | SAS Enterprise Guide |
 | Developing production SAS programs | **VS Code** |
-| Collaborative project with Git | **VS Code** |
+| Collaborative project with Git | **VS Code** or SAS Studio (Viya) |
 | Mixed SAS + Python project | **VS Code** |
 | Working offline / on a laptop | **VS Code** |
-| Exploratory analysis with narrative | **VS Code (Notebooks)** |
+| Exploratory analysis with narrative | **VS Code (Notebooks)** or SAS Studio (Viya) |
+| Connecting to SAS 9.4 (local or remote) | **VS Code** |
 | Regulatory/validated environment | Check with your admin |
 
-"VS Code is not a replacement for every tool — it is the right tool for development work."
+"The key differentiator for VS Code: it works with **all** SAS environments from one locally installed tool, and it works offline."
 
 ---
 
-### Slide 10 — Activity: Your Use Case
+### Slide 11 — Activity: Your Use Case
 
 **Small group discussion (5 minutes):**
 
 > Think about a recent SAS project you worked on.  
-> Which of these VS Code features would have helped you most?
-> - Offline editing
-> - Multi-language support
-> - Notebooks
-> - Git version control
-> - AI assistance
+> You may already use SAS Studio on Viya — that is fine.  
+> Which of these VS Code features would have added value for that project?
+> - Offline editing (no browser, no network needed)
+> - Connecting to SAS 9.4 as well as Viya from one tool
+> - GitHub Copilot (works with any connection, free tier)
+> - Full VS Code extension ecosystem
+> - Working in the same tool as your Python/R colleagues
 >
 > Share one answer with the group.
 

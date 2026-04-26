@@ -40,7 +40,7 @@
 - Click the Results tab (next to Output)
 - "The PROC PRINT output appears here as HTML"
 - Scroll through the results
-- "This is the same output you would see in SAS Studio"
+- "This is the same output you would see in SAS Studio or SAS Enterprise Guide"
 
 ### 4. Run Selected Code (3 min)
 

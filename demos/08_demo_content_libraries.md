@@ -18,7 +18,7 @@
 
 - Expand the Libraries panel
 - Expand **SASHELP** — show the list of datasets
-- "These are the same libraries you see in SAS Studio"
+- "These are the same libraries you see in SAS Studio or SAS Enterprise Guide"
 - Expand **WORK** — show any datasets created in this session
 
 ### 3. Open the Table Viewer (2 min)
@@ -48,7 +48,7 @@
 
 - Expand the SAS Content panel
 - Navigate to **My Folder**
-- "These are the same files you see in SAS Studio's Explorer"
+- "These are the same files you see in SAS Studio's Explorer on Viya — you can work with them directly from VS Code without switching to a browser"
 - Right-click a folder → show the options: New Folder, Upload, etc.
 - Open a `.sas` file from SAS Content — it opens in the editor
 - "You can edit and run server-side files directly from VS Code"

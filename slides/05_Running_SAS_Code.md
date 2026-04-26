@@ -73,7 +73,7 @@ HTML output appears in the **Results panel** (a tab next to the Output panel).
 - Multiple result sets stack — scroll down to see all
 - Right-click → **Save As** to download as HTML or PDF
 
-"The Results panel shows the same output you would see in SAS Studio's Results pane."
+"The Results panel shows the same output you would see in SAS Studio or SAS Enterprise Guide's Results pane."
 
 ---
 
