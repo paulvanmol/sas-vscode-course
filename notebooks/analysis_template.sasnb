@@ -1,0 +1,74 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "# Orion Star Sales Analysis\n\n**Author:** [Your Name]  \n**Date:** [Today's Date]  \n**Data:** orsales.csv — Orion Star retail sales (1999–2002)\n\nThis notebook explores the Orion Star sales dataset. We will:\n1. Import and validate the data\n2. Summarize sales by product line\n3. Analyse profit trends over time\n4. Identify the top-performing product groups\n\n> **Before running:** Make sure `01_data_import.sas` has been run so `work.sales` exists,  \n> or run the import cell below first.",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sas",
+    "value": "/* ---- Step 1: Import the data ---- */\n/* Adjust the path to match your environment */\n%let data_path = ./data;\n\nproc import\n    datafile=\"&data_path./sales.csv\"\n    out=work.sales\n    dbms=csv\n    replace;\n    getnames=yes;\nrun;\n\n%put NOTE: work.sales imported — &sqlobs. rows.;",
+    "outputs": []
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Step 2: Explore the Data\n\nCheck the structure and basic statistics before diving into analysis.",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sas",
+    "value": "/* Dataset structure */\nproc contents data=work.sales varnum;\n    title 'Structure of WORK.SALES';\nrun;",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sas",
+    "value": "/* Summary statistics */\nproc means data=work.sales n mean min max sum;\n    var Quantity Profit Total_Retail_Price;\n    title 'Summary Statistics — Orion Star Sales';\nrun;",
+    "outputs": []
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Step 3: Sales by Product Line\n\nAggregate total profit and revenue by product line to identify the strongest categories.",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sql",
+    "value": "SELECT\n    Product_Line,\n    COUNT(*)                                    AS num_groups,\n    SUM(Quantity)                               AS total_qty,\n    SUM(Profit)                                 AS total_profit,\n    SUM(Total_Retail_Price)                     AS total_revenue,\n    ROUND(SUM(Profit)/SUM(Total_Retail_Price)*100, 1) AS margin_pct\nFROM work.sales\nGROUP BY Product_Line\nORDER BY total_profit DESC;",
+    "outputs": []
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Step 4: Annual Profit Trend\n\nHow has total profit changed year over year across all product lines?",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sql",
+    "value": "SELECT\n    Year,\n    SUM(Profit)             AS total_profit,\n    SUM(Total_Retail_Price) AS total_revenue,\n    SUM(Quantity)           AS total_qty\nFROM work.sales\nGROUP BY Year\nORDER BY Year;",
+    "outputs": []
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Step 5: Top 10 Product Groups by Profit\n\nWhich individual product groups drive the most profit?",
+    "outputs": []
+  },
+  {
+    "kind": 2,
+    "language": "sql",
+    "value": "SELECT\n    Product_Group,\n    Product_Line,\n    SUM(Profit)             AS total_profit,\n    SUM(Total_Retail_Price) AS total_revenue\nFROM work.sales\nGROUP BY Product_Group, Product_Line\nORDER BY total_profit DESC\nLIMIT 10;",
+    "outputs": []
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Findings\n\n> **Complete this section after running the cells above.**\n\n1. The most profitable product line is: **[fill in]**\n2. Total profit across all years: **[fill in]**\n3. The year with the highest profit was: **[fill in]**\n4. The top product group by profit is: **[fill in]**\n\n## Next Steps\n\n- [ ] Analyse profit trends by quarter\n- [ ] Join with customer data to understand which customer segments buy which product lines\n- [ ] Investigate product groups with negative profit",
+    "outputs": []
+  }
+]

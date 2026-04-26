@@ -1,0 +1,913 @@
+Year,Quarter,Product_Line,Product_Category,Product_Group,Quantity,Profit,Total_Retail_Price
+1999,1999Q1,Children,Children Sports,"A-Team, Kids",286,4980.15,8990.9
+1999,1999Q1,Children,Children Sports,"Bathing Suits, Kids",98,1479.95,2560.4
+1999,1999Q1,Children,Children Sports,"Eclipse, Kid's Clothes",588,9348.95,18768.8
+1999,1999Q1,Children,Children Sports,"Eclipse, Kid's Shoes",334,7136.8,14337.2
+1999,1999Q1,Children,Children Sports,"Lucky Guy, Kids",303,7163.00000000001,12996.2
+1999,1999Q1,Children,Children Sports,"N.D. Gear, Kids",755,19153.05,34250.4999999999
+1999,1999Q1,Children,Children Sports,"Olssons, Kids",209,1975.35,3339.3
+1999,1999Q1,Children,Children Sports,Orion Kid's Clothes,14,288.8,580.4
+1999,1999Q1,Children,Children Sports,"Osprey, Kids",454,7334.7,13219.6
+1999,1999Q1,Children,Children Sports,Tracker Kid's Clothes,1243,21847.8500000001,40049.4999999999
+1999,1999Q1,Children,Children Sports,"Ypsilon, Kids",139,3020.85,5354.7
+1999,1999Q1,Clothes & Shoes,Clothes,Eclipse Clothing,2938,84982.5,170206.100000001
+1999,1999Q1,Clothes & Shoes,Clothes,Green Tomato,171,4706.85,7846.20000000001
+1999,1999Q1,Clothes & Shoes,Clothes,Knitwear,1554,79951.69,140077.94
+1999,1999Q1,Clothes & Shoes,Clothes,LSF,335,16878,32535.5
+1999,1999Q1,Clothes & Shoes,Clothes,Leisure,312,14394.3,26047.2
+1999,1999Q1,Clothes & Shoes,Clothes,Massif,25,3767.9,7192.1
+1999,1999Q1,Clothes & Shoes,Clothes,Orion,793,38066.35,72236.4999999998
+1999,1999Q1,Clothes & Shoes,Clothes,Orion Clothing,460,11650.25,22294.3
+1999,1999Q1,Clothes & Shoes,Clothes,Osprey,266,9218.75000000001,15712.8
+1999,1999Q1,Clothes & Shoes,Clothes,Shorts,150,2278.65,4063
+1999,1999Q1,Clothes & Shoes,Clothes,Stockings & Socks,237,2099.55,3564.9
+1999,1999Q1,Clothes & Shoes,Clothes,Street Wear,408,15325.3,26391.8
+1999,1999Q1,Clothes & Shoes,Clothes,T-Shirts,362,5829.1,10497.1
+1999,1999Q1,Clothes & Shoes,Clothes,Tracker Clothes,2624,69039.1999999999,127046.8
+1999,1999Q1,Clothes & Shoes,Clothes,Twain,71,9522.575,18878.325
+1999,1999Q1,Clothes & Shoes,Shoes,Eclipse Shoes,4121,205449.95,413796.399999998
+1999,1999Q1,Clothes & Shoes,Shoes,Shoes,1905,98815.5500000001,183279.2
+1999,1999Q1,Clothes & Shoes,Shoes,Tracker Shoes,2179,92492.5499999997,170200.4
+1999,1999Q1,Outdoors,Outdoors,Anoraks & Parkas,3139,236288.94,420621.539999999
+1999,1999Q1,Outdoors,Outdoors,Backpacks,607,43060.0499999999,81268.5
+1999,1999Q1,Outdoors,Outdoors,Gloves & Mittens,251,5756.9,9900.80000000001
+1999,1999Q1,Outdoors,Outdoors,Knitted Accessories,405,4104.43,7135.58000000001
+1999,1999Q1,Outdoors,Outdoors,Outdoor Gear,1898,85201.7999999999,150492.7
+1999,1999Q1,Outdoors,Outdoors,Sleepingbags,1643,74168.0499999999,146132.8
+1999,1999Q1,Outdoors,Outdoors,Tents,705,123547,251163.800000001
+1999,1999Q1,Sports,Assorted Sports Articles,Assorted Sports articles,4220,146611.2,266024.15
+1999,1999Q1,Sports,Assorted Sports Articles,Darts,1108,20224.1999999999,34454.2000000001
+1999,1999Q1,Sports,Assorted Sports Articles,Petanque - Boule,376,8991.85000000001,16225.3
+1999,1999Q1,Sports,Assorted Sports Articles,Skates,1980,187259.000000001,384963.3
+1999,1999Q1,Sports,Golf,Golf,1456,76791.65,159190.7
+1999,1999Q1,Sports,Golf,Golf Clothes,502,41045.4500000001,57055.1999999999
+1999,1999Q1,Sports,Indoor Sports,Fitness,647,60817.6499999999,121857
+1999,1999Q1,Sports,Indoor Sports,Gymnastic Clothing,358,9569.26,17024.36
+1999,1999Q1,Sports,Indoor Sports,Top Trim,340,39674.61,71773.26
+1999,1999Q1,Sports,Racket Sports,Badminton,125,13498.75,18203.8
+1999,1999Q1,Sports,Racket Sports,Racket Sports,529,44820.1,76510.4000000001
+1999,1999Q1,Sports,Racket Sports,Tennis,554,13944.6,23950.3
+1999,1999Q1,Sports,Running - Jogging,Jogging,1321,46763.6,81657.7999999998
+1999,1999Q1,Sports,Running - Jogging,Running Clothes,2106,52840.6499999999,95139.8000000003
+1999,1999Q1,Sports,Swim Sports,Bathing Suits,1262,25863.8,44130.7999999999
+1999,1999Q1,Sports,Team Sports,American Football,431,5990.33000000003,10608.86
+1999,1999Q1,Sports,Team Sports,Baseball,381,3604.8,6444.69999999999
+1999,1999Q1,Sports,Team Sports,Basket Ball,232,2853.2,4617.64999999999
+1999,1999Q1,Sports,Team Sports,Soccer,1065,19317.55,36927.0000000001
+1999,1999Q1,Sports,Winter Sports,Ski Dress,1527,213396.500000001,377411.35
+1999,1999Q1,Sports,Winter Sports,Winter Sports,2590,138916.24,247872.79
+1999,1999Q2,Children,Children Sports,"A-Team, Kids",601,10243.65,18499.1
+1999,1999Q2,Children,Children Sports,"Bathing Suits, Kids",183,3217.11,5552.66
+1999,1999Q2,Children,Children Sports,"Eclipse, Kid's Clothes",1068,17268.75,34688.2
+1999,1999Q2,Children,Children Sports,"Eclipse, Kid's Shoes",662,13860.84,28052.44
+1999,1999Q2,Children,Children Sports,"Lucky Guy, Kids",566,13148.95,23871.1
+1999,1999Q2,Children,Children Sports,"N.D. Gear, Kids",1586,41117.88,73708.2799999999
+1999,1999Q2,Children,Children Sports,"Olssons, Kids",445,4180.45,7018.3
+1999,1999Q2,Children,Children Sports,Orion Kid's Clothes,19,344.8,693.4
+1999,1999Q2,Children,Children Sports,"Osprey, Kids",1031,15763.2,28603.6
+1999,1999Q2,Children,Children Sports,Tracker Kid's Clothes,2458,44840.28,82469.8299999997
+1999,1999Q2,Children,Children Sports,"Ypsilon, Kids",250,5289.85,9378.60000000001
+1999,1999Q2,Clothes & Shoes,Clothes,Eclipse Clothing,5658,156126.53,313701.980000002
+1999,1999Q2,Clothes & Shoes,Clothes,Green Tomato,324,9264.64999999999,15443.8
+1999,1999Q2,Clothes & Shoes,Clothes,Knitwear,894,43345.25,75620.2999999998
+1999,1999Q2,Clothes & Shoes,Clothes,LSF,601,31183.95,59883.5
+1999,1999Q2,Clothes & Shoes,Clothes,Leisure,584,26349.3999999999,47715.8000000001
+1999,1999Q2,Clothes & Shoes,Clothes,Massif,78,11770.9,22468
+1999,1999Q2,Clothes & Shoes,Clothes,Orion,1397,65043.2899999999,124513.29
+1999,1999Q2,Clothes & Shoes,Clothes,Orion Clothing,864,23831.66,45875.1099999999
+1999,1999Q2,Clothes & Shoes,Clothes,Osprey,470,16426.85,28081.8
+1999,1999Q2,Clothes & Shoes,Clothes,Shorts,258,3866.85,6897.7
+1999,1999Q2,Clothes & Shoes,Clothes,Stockings & Socks,406,3703.15,6306.89999999999
+1999,1999Q2,Clothes & Shoes,Clothes,Street Wear,847,33972.5500000001,58897.3000000001
+1999,1999Q2,Clothes & Shoes,Clothes,T-Shirts,639,9721.42999999999,17852.43
+1999,1999Q2,Clothes & Shoes,Clothes,Tracker Clothes,4815,126424.97,233424.42
+1999,1999Q2,Clothes & Shoes,Clothes,Twain,96,12789.55,25292.35
+1999,1999Q2,Clothes & Shoes,Shoes,Eclipse Shoes,6853,340341.140000001,686906.59
+1999,1999Q2,Clothes & Shoes,Shoes,Shoes,3050,159684.09,296426.49
+1999,1999Q2,Clothes & Shoes,Shoes,Tracker Shoes,3927,160034.65,294621.700000001
+1999,1999Q2,Outdoors,Outdoors,Anoraks & Parkas,2060,162450.510000001,291965.709999999
+1999,1999Q2,Outdoors,Outdoors,Backpacks,1497,102754.45,197134.25
+1999,1999Q2,Outdoors,Outdoors,Gloves & Mittens,234,5557.94999999999,9617.00000000001
+1999,1999Q2,Outdoors,Outdoors,Knitted Accessories,166,2012.5,3441.8
+1999,1999Q2,Outdoors,Outdoors,Outdoor Gear,4488,192599.91,342417.71
+1999,1999Q2,Outdoors,Outdoors,Sleepingbags,3980,181599.5,357953.700000002
+1999,1999Q2,Outdoors,Outdoors,Tents,1699,300826,606290.999999998
+1999,1999Q2,Sports,Assorted Sports Articles,Assorted Sports articles,6837,237328.185,430240.385
+1999,1999Q2,Sports,Assorted Sports Articles,Darts,1094,20502.9499999999,34922.3000000001
+1999,1999Q2,Sports,Assorted Sports Articles,Petanque - Boule,1041,25301.1,45565.9999999999
+1999,1999Q2,Sports,Assorted Sports Articles,Skates,4825,444409.070000001,940072.820000002
+1999,1999Q2,Sports,Golf,Golf,3469,180709.21,376437.36
+1999,1999Q2,Sports,Golf,Golf Clothes,1068,84713.9499999999,116364.5
+1999,1999Q2,Sports,Indoor Sports,Fitness,334,24463.65,49631.7
+1999,1999Q2,Sports,Indoor Sports,Gymnastic Clothing,189,4850.05,8623.4
+1999,1999Q2,Sports,Indoor Sports,Top Trim,168,18469.15,33200.4
+1999,1999Q2,Sports,Racket Sports,Badminton,81,9269.75,12360.1
+1999,1999Q2,Sports,Racket Sports,Racket Sports,914,71155.2999999998,122259
+1999,1999Q2,Sports,Racket Sports,Tennis,1456,36854.14,63756.69
+1999,1999Q2,Sports,Running - Jogging,Jogging,2230,77019.9700000002,135086.27
+1999,1999Q2,Sports,Running - Jogging,Running Clothes,3278,77014.33,139473.380000001
+1999,1999Q2,Sports,Swim Sports,Bathing Suits,3010,60166.3799999999,104046.83
+1999,1999Q2,Sports,Team Sports,American Football,1054,14193.8,25565.66
+1999,1999Q2,Sports,Team Sports,Baseball,981,9366.07,16553.82
+1999,1999Q2,Sports,Team Sports,Basket Ball,113,1385.3,2245.35
+1999,1999Q2,Sports,Team Sports,Soccer,2866,48241.71,94383.5099999999
+1999,1999Q2,Sports,Winter Sports,Ski Dress,533,75872.6999999999,133340.6
+1999,1999Q2,Sports,Winter Sports,Winter Sports,1022,55672.7250000002,98540.8749999997
+1999,1999Q3,Children,Children Sports,"A-Team, Kids",537,8833.92999999999,16410.53
+1999,1999Q3,Children,Children Sports,"Bathing Suits, Kids",187,2977.75,5128.4
+1999,1999Q3,Children,Children Sports,"Eclipse, Kid's Clothes",1073,16820.45,33870.3
+1999,1999Q3,Children,Children Sports,"Eclipse, Kid's Shoes",630,13593.21,27367.86
+1999,1999Q3,Children,Children Sports,"Lucky Guy, Kids",521,12200.65,22136.8
+1999,1999Q3,Children,Children Sports,"N.D. Gear, Kids",1520,40754.79,73453.64
+1999,1999Q3,Children,Children Sports,"Olssons, Kids",433,3883.9,6521.1
+1999,1999Q3,Children,Children Sports,Orion Kid's Clothes,29,496.4,998.6
+1999,1999Q3,Children,Children Sports,"Osprey, Kids",829,12317.19,22507.64
+1999,1999Q3,Children,Children Sports,Tracker Kid's Clothes,2400,42517.75,78770.2
+1999,1999Q3,Children,Children Sports,"Ypsilon, Kids",220,4860.5,8617.9
+1999,1999Q3,Clothes & Shoes,Clothes,Eclipse Clothing,5879,167951.51,339165.56
+1999,1999Q3,Clothes & Shoes,Clothes,Green Tomato,327,8952.58,15093.23
+1999,1999Q3,Clothes & Shoes,Clothes,Knitwear,623,30528.0999999999,53393
+1999,1999Q3,Clothes & Shoes,Clothes,LSF,702,35957.7,68991.5999999999
+1999,1999Q3,Clothes & Shoes,Clothes,Leisure,524,22507.11,40981.81
+1999,1999Q3,Clothes & Shoes,Clothes,Massif,51,7595.85,14499
+1999,1999Q3,Clothes & Shoes,Clothes,Orion,1462,67466.9600000001,129896.56
+1999,1999Q3,Clothes & Shoes,Clothes,Orion Clothing,904,23741.55,45558.9
+1999,1999Q3,Clothes & Shoes,Clothes,Osprey,505,17693.85,30080.5
+1999,1999Q3,Clothes & Shoes,Clothes,Shorts,269,4190.91,7716.30999999999
+1999,1999Q3,Clothes & Shoes,Clothes,Stockings & Socks,513,4642.45,7895.1
+1999,1999Q3,Clothes & Shoes,Clothes,Street Wear,911,37914.7,65530.7499999999
+1999,1999Q3,Clothes & Shoes,Clothes,T-Shirts,679,10666.4,19206.4
+1999,1999Q3,Clothes & Shoes,Clothes,Tracker Clothes,4925,128263.95,238193.55
+1999,1999Q3,Clothes & Shoes,Clothes,Twain,147,19493.075,37925.825
+1999,1999Q3,Clothes & Shoes,Shoes,Eclipse Shoes,6592,326052.819999999,658727.22
+1999,1999Q3,Clothes & Shoes,Shoes,Shoes,3052,158739.95,296365.35
+1999,1999Q3,Clothes & Shoes,Shoes,Tracker Shoes,3556,141540.81,264627.76
+1999,1999Q3,Outdoors,Outdoors,Anoraks & Parkas,1112,86575.9999999997,154595.1
+1999,1999Q3,Outdoors,Outdoors,Backpacks,1187,79752.7299999998,151140.78
+1999,1999Q3,Outdoors,Outdoors,Gloves & Mittens,244,5535.25,9519.70000000001
+1999,1999Q3,Outdoors,Outdoors,Knitted Accessories,145,1698.15,2888.3
+1999,1999Q3,Outdoors,Outdoors,Outdoor Gear,3979,170742.57,302470.770000001
+1999,1999Q3,Outdoors,Outdoors,Sleepingbags,3436,156490.1,308182.700000001
+1999,1999Q3,Outdoors,Outdoors,Tents,1480,261444.7,530594.100000001
+1999,1999Q3,Sports,Assorted Sports Articles,Assorted Sports articles,6766,230609.540000001,420054.69
+1999,1999Q3,Sports,Assorted Sports Articles,Darts,932,16758.2,28542.7000000001
+1999,1999Q3,Sports,Assorted Sports Articles,Petanque - Boule,914,22108.85,39936.3
+1999,1999Q3,Sports,Assorted Sports Articles,Skates,4236,397796.86,834389.059999999
+1999,1999Q3,Sports,Golf,Golf,3136,164126.37,339269.820000001
+1999,1999Q3,Sports,Golf,Golf Clothes,1161,88682.1100000001,124474.91
+1999,1999Q3,Sports,Indoor Sports,Fitness,491,36026,72324
+1999,1999Q3,Sports,Indoor Sports,Gymnastic Clothing,273,7434.9,13138.3
+1999,1999Q3,Sports,Indoor Sports,Top Trim,219,21973.25,39486.7
+1999,1999Q3,Sports,Racket Sports,Badminton,117,12616.9,17102.5
+1999,1999Q3,Sports,Racket Sports,Racket Sports,1066,87373.7499999998,150270.7
+1999,1999Q3,Sports,Racket Sports,Tennis,907,24178.42,41729.42
+1999,1999Q3,Sports,Running - Jogging,Jogging,1992,69841.89,122154.54
+1999,1999Q3,Sports,Running - Jogging,Running Clothes,3179,77546.57,141552.77
+1999,1999Q3,Sports,Swim Sports,Bathing Suits,2521,48689.4900000002,84431.8900000001
+1999,1999Q3,Sports,Team Sports,American Football,804,9825.32000000002,18537.1
+1999,1999Q3,Sports,Team Sports,Baseball,770,6509.77,12215.82
+1999,1999Q3,Sports,Team Sports,Basket Ball,163,1999.66,3240.06
+1999,1999Q3,Sports,Team Sports,Soccer,1942,34462.28,66863.28
+1999,1999Q3,Sports,Winter Sports,Ski Dress,485,70380.0999999999,123494.5
+1999,1999Q3,Sports,Winter Sports,Winter Sports,1048,56310,99763.1499999997
+1999,1999Q4,Children,Children Sports,"A-Team, Kids",473,7457.5,13550.2
+1999,1999Q4,Children,Children Sports,"Bathing Suits, Kids",64,1113.45,1918.5
+1999,1999Q4,Children,Children Sports,"Eclipse, Kid's Clothes",932,13973.42,28283.72
+1999,1999Q4,Children,Children Sports,"Eclipse, Kid's Shoes",585,11967.81,24444.06
+1999,1999Q4,Children,Children Sports,"Lucky Guy, Kids",507,11210.7,20491
+1999,1999Q4,Children,Children Sports,"N.D. Gear, Kids",1093,28336.6899999999,50627.24
+1999,1999Q4,Children,Children Sports,"Olssons, Kids",339,3121.05,5280.29999999999
+1999,1999Q4,Children,Children Sports,Orion Kid's Clothes,33,467.2,941
+1999,1999Q4,Children,Children Sports,"Osprey, Kids",720,11154,20187.5
+1999,1999Q4,Children,Children Sports,Tracker Kid's Clothes,1954,35099.49,65046.4399999996
+1999,1999Q4,Children,Children Sports,"Ypsilon, Kids",242,5389.05,9553.00000000001
+1999,1999Q4,Clothes & Shoes,Clothes,Eclipse Clothing,5042,140445.6,282644.600000001
+1999,1999Q4,Clothes & Shoes,Clothes,Green Tomato,272,7219.5,12373.5
+1999,1999Q4,Clothes & Shoes,Clothes,Knitwear,1208,61299.5000000001,106789.9
+1999,1999Q4,Clothes & Shoes,Clothes,LSF,615,30139.98,58752.78
+1999,1999Q4,Clothes & Shoes,Clothes,Leisure,475,20566.7499999999,37293.1
+1999,1999Q4,Clothes & Shoes,Clothes,Massif,67,10438.65,19924
+1999,1999Q4,Clothes & Shoes,Clothes,Orion,1267,59284.6299999999,114143.68
+1999,1999Q4,Clothes & Shoes,Clothes,Orion Clothing,764,21028.87,40399.12
+1999,1999Q4,Clothes & Shoes,Clothes,Osprey,468,15539.52,26640.92
+1999,1999Q4,Clothes & Shoes,Clothes,Shorts,125,1925.1,3433
+1999,1999Q4,Clothes & Shoes,Clothes,Stockings & Socks,438,3930.75,6714.59999999999
+1999,1999Q4,Clothes & Shoes,Clothes,Street Wear,749,29241.1700000001,50914.4200000001
+1999,1999Q4,Clothes & Shoes,Clothes,T-Shirts,307,4922.4,8836.70000000001
+1999,1999Q4,Clothes & Shoes,Clothes,Tracker Clothes,4583,122285.02,226909.519999999
+1999,1999Q4,Clothes & Shoes,Clothes,Twain,111,14037.15,27163.85
+1999,1999Q4,Clothes & Shoes,Shoes,Eclipse Shoes,4491,220287.110000001,443837.359999999
+1999,1999Q4,Clothes & Shoes,Shoes,Shoes,2073,106766.49,199992.74
+1999,1999Q4,Clothes & Shoes,Shoes,Tracker Shoes,2604,108020.29,198944.24
+1999,1999Q4,Outdoors,Outdoors,Anoraks & Parkas,2361,185557.940000001,333858.439999998
+1999,1999Q4,Outdoors,Outdoors,Backpacks,1125,77679.1499999999,146663.1
+1999,1999Q4,Outdoors,Outdoors,Gloves & Mittens,523,12634.05,21833.9
+1999,1999Q4,Outdoors,Outdoors,Knitted Accessories,364,4321.58,7437.28
+1999,1999Q4,Outdoors,Outdoors,Outdoor Gear,2113,90356.4999999999,159591.5
+1999,1999Q4,Outdoors,Outdoors,Sleepingbags,1965,89234.8499999999,175719.400000001
+1999,1999Q4,Outdoors,Outdoors,Tents,817,145481.799999999,293892.600000001
+1999,1999Q4,Sports,Assorted Sports Articles,Assorted Sports articles,6106,208643.455,379600.855
+1999,1999Q4,Sports,Assorted Sports Articles,Darts,1987,36701.05,62546.9000000001
+1999,1999Q4,Sports,Assorted Sports Articles,Petanque - Boule,452,10885.5,19629.2
+1999,1999Q4,Sports,Assorted Sports Articles,Skates,2339,220520.250000001,458122.1
+1999,1999Q4,Sports,Golf,Golf,2342,126166.37,258909.470000001
+1999,1999Q4,Sports,Golf,Golf Clothes,793,64638.56,89872.2099999999
+1999,1999Q4,Sports,Indoor Sports,Fitness,636,67693.09,134976.04
+1999,1999Q4,Sports,Indoor Sports,Gymnastic Clothing,434,11068.11,19637.86
+1999,1999Q4,Sports,Indoor Sports,Top Trim,373,40132.53,73103.1799999999
+1999,1999Q4,Sports,Racket Sports,Badminton,220,22095.05,30234.5
+1999,1999Q4,Sports,Racket Sports,Racket Sports,1038,87916.5499999999,149015.7
+1999,1999Q4,Sports,Racket Sports,Tennis,881,23484.18,41188.18
+1999,1999Q4,Sports,Running - Jogging,Jogging,1534,51199.37,91117.7699999999
+1999,1999Q4,Sports,Running - Jogging,Running Clothes,2172,51992.5899999999,94407.9400000006
+1999,1999Q4,Sports,Swim Sports,Bathing Suits,1117,22944.55,39209.1
+1999,1999Q4,Sports,Team Sports,American Football,684,8915.87000000002,16188.9
+1999,1999Q4,Sports,Team Sports,Baseball,534,5409.75999999999,9394.05999999999
+1999,1999Q4,Sports,Team Sports,Basket Ball,196,2416,3905.84999999999
+1999,1999Q4,Sports,Team Sports,Soccer,1905,35714.8800000001,69232.7800000001
+1999,1999Q4,Sports,Winter Sports,Ski Dress,1399,196434.880000001,346267.429999998
+1999,1999Q4,Sports,Winter Sports,Winter Sports,2386,123899.43,222812.08
+2000,2000Q1,Children,Children Sports,"A-Team, Kids",310,5627.44999999999,10163.7
+2000,2000Q1,Children,Children Sports,"Bathing Suits, Kids",90,1618.5,2800.1
+2000,2000Q1,Children,Children Sports,"Eclipse, Kid's Clothes",585,9501.15000000001,19079.1
+2000,2000Q1,Children,Children Sports,"Eclipse, Kid's Shoes",351,7508.54999999999,15082.5
+2000,2000Q1,Children,Children Sports,"Lucky Guy, Kids",289,7193.20000000001,13020
+2000,2000Q1,Children,Children Sports,"N.D. Gear, Kids",786,21158.45,37889.7
+2000,2000Q1,Children,Children Sports,"Olssons, Kids",254,2362.75,3984.29999999999
+2000,2000Q1,Children,Children Sports,Orion Kid's Clothes,15,278.6,560.2
+2000,2000Q1,Children,Children Sports,"Osprey, Kids",491,7658.49999999998,13878.5
+2000,2000Q1,Children,Children Sports,Tracker Kid's Clothes,1308,23972.5500000001,43936.1999999999
+2000,2000Q1,Children,Children Sports,"Ypsilon, Kids",158,3451.3,6117.5
+2000,2000Q1,Clothes & Shoes,Clothes,Eclipse Clothing,3503,103567.35,207490.200000001
+2000,2000Q1,Clothes & Shoes,Clothes,Green Tomato,206,5901.15000000001,9835.5
+2000,2000Q1,Clothes & Shoes,Clothes,Knitwear,1704,85894.65,150673.8
+2000,2000Q1,Clothes & Shoes,Clothes,LSF,355,18643.15,35897.3
+2000,2000Q1,Clothes & Shoes,Clothes,Leisure,328,15236.05,27562.5
+2000,2000Q1,Clothes & Shoes,Clothes,Massif,42,6465.7,12341
+2000,2000Q1,Clothes & Shoes,Clothes,Orion,836,41966.9000000001,79794.1000000002
+2000,2000Q1,Clothes & Shoes,Clothes,Orion Clothing,529,14497.2,27745.6
+2000,2000Q1,Clothes & Shoes,Clothes,Osprey,321,11403,19554.7
+2000,2000Q1,Clothes & Shoes,Clothes,Shorts,175,2513.6,4497.4
+2000,2000Q1,Clothes & Shoes,Clothes,Stockings & Socks,315,2876.7,4894.1
+2000,2000Q1,Clothes & Shoes,Clothes,Street Wear,493,19939,34400.6
+2000,2000Q1,Clothes & Shoes,Clothes,T-Shirts,381,6253,11191.2
+2000,2000Q1,Clothes & Shoes,Clothes,Tracker Clothes,2999,80871.4000000001,148782.7
+2000,2000Q1,Clothes & Shoes,Clothes,Twain,79,10923.45,21109.75
+2000,2000Q1,Clothes & Shoes,Shoes,Eclipse Shoes,4810,239996.2,483996.200000001
+2000,2000Q1,Clothes & Shoes,Shoes,Shoes,2107,112862.7,209241.7
+2000,2000Q1,Clothes & Shoes,Shoes,Tracker Shoes,2591,107826.099999999,198561.7
+2000,2000Q1,Outdoors,Outdoors,Anoraks & Parkas,3693,286258.109999999,509988.259999996
+2000,2000Q1,Outdoors,Outdoors,Backpacks,722,51118.8999999999,96410
+2000,2000Q1,Outdoors,Outdoors,Gloves & Mittens,305,7856.84999999999,13720.5
+2000,2000Q1,Outdoors,Outdoors,Knitted Accessories,412,4907.02,8510.82
+2000,2000Q1,Outdoors,Outdoors,Outdoor Gear,2385,99460.0499999996,175673.3
+2000,2000Q1,Outdoors,Outdoors,Sleepingbags,1953,89304.8500000001,175873.700000001
+2000,2000Q1,Outdoors,Outdoors,Tents,863,158431.449999999,321752.800000001
+2000,2000Q1,Sports,Assorted Sports Articles,Assorted Sports articles,4775,167936.250000001,304040.4
+2000,2000Q1,Sports,Assorted Sports Articles,Darts,1474,27860.0499999999,47481.0000000003
+2000,2000Q1,Sports,Assorted Sports Articles,Petanque - Boule,441,10806.9,19526.8
+2000,2000Q1,Sports,Assorted Sports Articles,Skates,2361,227123.8,469374.500000001
+2000,2000Q1,Sports,Golf,Golf,1863,99002.8000000003,204362.2
+2000,2000Q1,Sports,Golf,Golf Clothes,645,53465.2,73382.3999999999
+2000,2000Q1,Sports,Indoor Sports,Fitness,737,71593.61,143166.86
+2000,2000Q1,Sports,Indoor Sports,Gymnastic Clothing,356,9369.91,16607.06
+2000,2000Q1,Sports,Indoor Sports,Top Trim,410,45710.71,83495.91
+2000,2000Q1,Sports,Racket Sports,Badminton,166,18776.65,25382.1
+2000,2000Q1,Sports,Racket Sports,Racket Sports,613,48585.45,84220.4
+2000,2000Q1,Sports,Racket Sports,Tennis,624,16812.7,28941.5
+2000,2000Q1,Sports,Running - Jogging,Jogging,1591,55638.6499999999,97240.5999999999
+2000,2000Q1,Sports,Running - Jogging,Running Clothes,2480,61148.9000000002,110376
+2000,2000Q1,Sports,Swim Sports,Bathing Suits,1204,24921.5499999999,42520.4
+2000,2000Q1,Sports,Team Sports,American Football,447,6219.33000000003,11011.5
+2000,2000Q1,Sports,Team Sports,Baseball,426,3822.55,6934.29999999999
+2000,2000Q1,Sports,Team Sports,Basket Ball,220,2740.56,4408.65999999999
+2000,2000Q1,Sports,Team Sports,Soccer,1256,23244.1,44608.7999999999
+2000,2000Q1,Sports,Winter Sports,Ski Dress,1861,254706.73,453056.63
+2000,2000Q1,Sports,Winter Sports,Winter Sports,3462,187819.414999999,332491.164999999
+2000,2000Q2,Children,Children Sports,"A-Team, Kids",537,9052.2,16350.7
+2000,2000Q2,Children,Children Sports,"Bathing Suits, Kids",207,3472.2,5998.2
+2000,2000Q2,Children,Children Sports,"Eclipse, Kid's Clothes",1199,19415.03,39004.03
+2000,2000Q2,Children,Children Sports,"Eclipse, Kid's Shoes",728,15364.34,31014.99
+2000,2000Q2,Children,Children Sports,"Lucky Guy, Kids",567,12903.05,23485.1
+2000,2000Q2,Children,Children Sports,"N.D. Gear, Kids",1676,45402.4199999999,81242.87
+2000,2000Q2,Children,Children Sports,"Olssons, Kids",511,4619.05,7715.40000000001
+2000,2000Q2,Children,Children Sports,Orion Kid's Clothes,19,351.1,706
+2000,2000Q2,Children,Children Sports,"Osprey, Kids",968,14924.33,27010.08
+2000,2000Q2,Children,Children Sports,Tracker Kid's Clothes,2512,45018.1,82924.3500000002
+2000,2000Q2,Children,Children Sports,"Ypsilon, Kids",259,5711.75,10125.8
+2000,2000Q2,Clothes & Shoes,Clothes,Eclipse Clothing,6755,191287.4,384318.350000003
+2000,2000Q2,Clothes & Shoes,Clothes,Green Tomato,407,12023.15,20037
+2000,2000Q2,Clothes & Shoes,Clothes,Knitwear,1089,54432.2500000001,95199.2999999999
+2000,2000Q2,Clothes & Shoes,Clothes,LSF,797,40207.2,77149.0000000001
+2000,2000Q2,Clothes & Shoes,Clothes,Leisure,678,31398.9499999999,56801.7000000001
+2000,2000Q2,Clothes & Shoes,Clothes,Massif,103,15519.2,29622
+2000,2000Q2,Clothes & Shoes,Clothes,Orion,1799,86710.4999999999,166252.649999999
+2000,2000Q2,Clothes & Shoes,Clothes,Orion Clothing,1007,27650.78,53412.6299999999
+2000,2000Q2,Clothes & Shoes,Clothes,Osprey,652,21752.5,36711.1
+2000,2000Q2,Clothes & Shoes,Clothes,Shorts,293,4339.4,7749.4
+2000,2000Q2,Clothes & Shoes,Clothes,Stockings & Socks,499,4672.3,7965.90000000001
+2000,2000Q2,Clothes & Shoes,Clothes,Street Wear,949,36509.0999999999,63409.0999999999
+2000,2000Q2,Clothes & Shoes,Clothes,T-Shirts,765,11090.12,20440.8699999999
+2000,2000Q2,Clothes & Shoes,Clothes,Tracker Clothes,5941,164258.019999999,302537.720000001
+2000,2000Q2,Clothes & Shoes,Clothes,Twain,149,20033.45,38452.15
+2000,2000Q2,Clothes & Shoes,Shoes,Eclipse Shoes,7717,378502.71,765253.460000001
+2000,2000Q2,Clothes & Shoes,Shoes,Shoes,3377,178159.74,330792.39
+2000,2000Q2,Clothes & Shoes,Shoes,Tracker Shoes,4226,173593.670000001,320046.27
+2000,2000Q2,Outdoors,Outdoors,Anoraks & Parkas,2367,183170.51,329619.560000001
+2000,2000Q2,Outdoors,Outdoors,Backpacks,1810,124273.87,236848.37
+2000,2000Q2,Outdoors,Outdoors,Gloves & Mittens,280,6607.55,11537.9
+2000,2000Q2,Outdoors,Outdoors,Knitted Accessories,207,2315.65,3938
+2000,2000Q2,Outdoors,Outdoors,Outdoor Gear,5443,237044.73,420435.129999999
+2000,2000Q2,Outdoors,Outdoors,Sleepingbags,4628,210270.7,414518.5
+2000,2000Q2,Outdoors,Outdoors,Tents,2018,356591.800000001,726506.599999999
+2000,2000Q2,Sports,Assorted Sports Articles,Assorted Sports articles,7980,277982.04,504459.690000001
+2000,2000Q2,Sports,Assorted Sports Articles,Darts,1268,24188.5999999999,41254.3000000003
+2000,2000Q2,Sports,Assorted Sports Articles,Petanque - Boule,1240,30612.7999999998,55057.4
+2000,2000Q2,Sports,Assorted Sports Articles,Skates,6016,552970.510000002,1159837.26
+2000,2000Q2,Sports,Golf,Golf,4269,221011.95,463360.499999998
+2000,2000Q2,Sports,Golf,Golf Clothes,1367,107704.01,150656.96
+2000,2000Q2,Sports,Indoor Sports,Fitness,373,29211.85,58081.2
+2000,2000Q2,Sports,Indoor Sports,Gymnastic Clothing,195,5241.65,9295.5
+2000,2000Q2,Sports,Indoor Sports,Top Trim,184,20651.8,37155.1
+2000,2000Q2,Sports,Racket Sports,Badminton,94,13037.85,17076.5
+2000,2000Q2,Sports,Racket Sports,Racket Sports,1094,89128.35,152396.5
+2000,2000Q2,Sports,Racket Sports,Tennis,1664,42833.4,74367.2999999999
+2000,2000Q2,Sports,Running - Jogging,Jogging,2532,89904.8800000002,157296.68
+2000,2000Q2,Sports,Running - Jogging,Running Clothes,3761,91769.6399999999,166192.89
+2000,2000Q2,Sports,Swim Sports,Bathing Suits,3596,70695.7099999999,122146.56
+2000,2000Q2,Sports,Team Sports,American Football,1184,16031.51,28626.66
+2000,2000Q2,Sports,Team Sports,Baseball,934,9107.17000000001,16095.97
+2000,2000Q2,Sports,Team Sports,Basket Ball,144,1795.52,2887.11999999999
+2000,2000Q2,Sports,Team Sports,Soccer,3674,64957.25,127550
+2000,2000Q2,Sports,Winter Sports,Ski Dress,596,85682.9999999999,150419.5
+2000,2000Q2,Sports,Winter Sports,Winter Sports,1182,66382.4500000002,118497.4
+2000,2000Q3,Children,Children Sports,"A-Team, Kids",668,10689.75,20152.05
+2000,2000Q3,Children,Children Sports,"Bathing Suits, Kids",179,3053,5269.9
+2000,2000Q3,Children,Children Sports,"Eclipse, Kid's Clothes",1271,21049.46,42363.31
+2000,2000Q3,Children,Children Sports,"Eclipse, Kid's Shoes",779,16434.97,33142.82
+2000,2000Q3,Children,Children Sports,"Lucky Guy, Kids",650,15493,28017.5
+2000,2000Q3,Children,Children Sports,"N.D. Gear, Kids",1776,45839.94,82339.89
+2000,2000Q3,Children,Children Sports,"Olssons, Kids",556,4934.45,8285.9
+2000,2000Q3,Children,Children Sports,Orion Kid's Clothes,30,519.65,1045.3
+2000,2000Q3,Children,Children Sports,"Osprey, Kids",1067,17238.03,31431.83
+2000,2000Q3,Children,Children Sports,Tracker Kid's Clothes,3022,53352.9100000001,99103.2099999998
+2000,2000Q3,Children,Children Sports,"Ypsilon, Kids",310,6694.2,11862.5
+2000,2000Q3,Clothes & Shoes,Clothes,Eclipse Clothing,7332,209707.67,423223.37
+2000,2000Q3,Clothes & Shoes,Clothes,Green Tomato,421,11289.35,19139.5
+2000,2000Q3,Clothes & Shoes,Clothes,Knitwear,808,42423,73947.4
+2000,2000Q3,Clothes & Shoes,Clothes,LSF,821,43013.15,82724.3
+2000,2000Q3,Clothes & Shoes,Clothes,Leisure,755,34172.3,62061.4
+2000,2000Q3,Clothes & Shoes,Clothes,Massif,89,13419.5,25614.2
+2000,2000Q3,Clothes & Shoes,Clothes,Orion,1725,83282.4699999999,158912.97
+2000,2000Q3,Clothes & Shoes,Clothes,Orion Clothing,1056,29772.19,57279.09
+2000,2000Q3,Clothes & Shoes,Clothes,Osprey,744,26099.5,44233.5
+2000,2000Q3,Clothes & Shoes,Clothes,Shorts,390,5348.93,9799.08000000001
+2000,2000Q3,Clothes & Shoes,Clothes,Stockings & Socks,574,5239.79,8917.69000000001
+2000,2000Q3,Clothes & Shoes,Clothes,Street Wear,1030,41974.1599999999,72471.6599999999
+2000,2000Q3,Clothes & Shoes,Clothes,T-Shirts,826,13702.15,24482.2999999999
+2000,2000Q3,Clothes & Shoes,Clothes,Tracker Clothes,6476,171995.78,319697.43
+2000,2000Q3,Clothes & Shoes,Clothes,Twain,163,22096.25,43577.75
+2000,2000Q3,Clothes & Shoes,Shoes,Eclipse Shoes,7850,383969.46,775016.010000002
+2000,2000Q3,Clothes & Shoes,Shoes,Shoes,3396,179442.31,334047.060000001
+2000,2000Q3,Clothes & Shoes,Shoes,Tracker Shoes,4311,175171.01,326785.510000001
+2000,2000Q3,Outdoors,Outdoors,Anoraks & Parkas,1455,114538,204465.7
+2000,2000Q3,Outdoors,Outdoors,Backpacks,1565,110410.07,209022.72
+2000,2000Q3,Outdoors,Outdoors,Gloves & Mittens,316,7562.1,13123.3
+2000,2000Q3,Outdoors,Outdoors,Knitted Accessories,209,2478.65,4224.2
+2000,2000Q3,Outdoors,Outdoors,Outdoor Gear,4925,221231.23,390306.68
+2000,2000Q3,Outdoors,Outdoors,Sleepingbags,4243,195212.2,384673.600000001
+2000,2000Q3,Outdoors,Outdoors,Tents,1858,327773.45,667781.499999998
+2000,2000Q3,Sports,Assorted Sports Articles,Assorted Sports articles,8728,305694.22,557402.52
+2000,2000Q3,Sports,Assorted Sports Articles,Darts,1255,23093.6499999999,39365.7000000003
+2000,2000Q3,Sports,Assorted Sports Articles,Petanque - Boule,934,23134.7499999999,41772.4
+2000,2000Q3,Sports,Assorted Sports Articles,Skates,5361,514154.050000002,1077435
+2000,2000Q3,Sports,Golf,Golf,3979,210724.14,436212.739999999
+2000,2000Q3,Sports,Golf,Golf Clothes,1431,110731.03,158330.83
+2000,2000Q3,Sports,Indoor Sports,Fitness,541,52509.8000000001,105373.9
+2000,2000Q3,Sports,Indoor Sports,Gymnastic Clothing,348,9689.9,17146.2
+2000,2000Q3,Sports,Indoor Sports,Top Trim,298,34017.85,60931.2
+2000,2000Q3,Sports,Racket Sports,Badminton,157,18751.1,25360.8
+2000,2000Q3,Sports,Racket Sports,Racket Sports,1104,97529.05,165035.1
+2000,2000Q3,Sports,Racket Sports,Tennis,1078,27191.38,47097.88
+2000,2000Q3,Sports,Running - Jogging,Jogging,2767,98527.7200000003,172113.87
+2000,2000Q3,Sports,Running - Jogging,Running Clothes,3943,93053.3599999999,171896.46
+2000,2000Q3,Sports,Swim Sports,Bathing Suits,3004,59923.1499999999,103539
+2000,2000Q3,Sports,Team Sports,American Football,1103,13326.86,25122.94
+2000,2000Q3,Sports,Team Sports,Baseball,909,8433.83000000001,15573.73
+2000,2000Q3,Sports,Team Sports,Basket Ball,217,2760.58,4397.57999999999
+2000,2000Q3,Sports,Team Sports,Soccer,2587,47291.1499999998,91645.4
+2000,2000Q3,Sports,Winter Sports,Ski Dress,626,91873.3499999999,161434.2
+2000,2000Q3,Sports,Winter Sports,Winter Sports,1199,64740.9499999999,114992.55
+2000,2000Q4,Children,Children Sports,"A-Team, Kids",543,9631.58999999999,17435.74
+2000,2000Q4,Children,Children Sports,"Bathing Suits, Kids",92,1583.5,2722.4
+2000,2000Q4,Children,Children Sports,"Eclipse, Kid's Clothes",1091,17039.05,34520.7
+2000,2000Q4,Children,Children Sports,"Eclipse, Kid's Shoes",602,12715.16,25788.06
+2000,2000Q4,Children,Children Sports,"Lucky Guy, Kids",538,13504.9,24478
+2000,2000Q4,Children,Children Sports,"N.D. Gear, Kids",1474,38362.19,68761.24
+2000,2000Q4,Children,Children Sports,"Olssons, Kids",423,3921.35,6575.4
+2000,2000Q4,Children,Children Sports,Orion Kid's Clothes,31,439.1,884.4
+2000,2000Q4,Children,Children Sports,"Osprey, Kids",837,13063.56,23545.06
+2000,2000Q4,Children,Children Sports,Tracker Kid's Clothes,2276,41527.6799999998,76648.5799999999
+2000,2000Q4,Children,Children Sports,"Ypsilon, Kids",239,5151.2,9127.1
+2000,2000Q4,Clothes & Shoes,Clothes,Eclipse Clothing,6242,177781.45,357383.800000002
+2000,2000Q4,Clothes & Shoes,Clothes,Green Tomato,359,9270.96,16009.46
+2000,2000Q4,Clothes & Shoes,Clothes,Knitwear,1436,75644.3000000003,132022.8
+2000,2000Q4,Clothes & Shoes,Clothes,LSF,693,32933.83,65241.3800000001
+2000,2000Q4,Clothes & Shoes,Clothes,Leisure,674,29168.9399999999,53328.1400000002
+2000,2000Q4,Clothes & Shoes,Clothes,Massif,72,10904.6,20813.8
+2000,2000Q4,Clothes & Shoes,Clothes,Orion,1616,77548.7799999999,148627.78
+2000,2000Q4,Clothes & Shoes,Clothes,Orion Clothing,952,27988.05,53555.5
+2000,2000Q4,Clothes & Shoes,Clothes,Osprey,528,18091.89,30927.24
+2000,2000Q4,Clothes & Shoes,Clothes,Shorts,165,2508.1,4475.9
+2000,2000Q4,Clothes & Shoes,Clothes,Stockings & Socks,577,5265.85,8903
+2000,2000Q4,Clothes & Shoes,Clothes,Street Wear,928,37475.19,65048.9400000001
+2000,2000Q4,Clothes & Shoes,Clothes,T-Shirts,393,6275.35,11284.3
+2000,2000Q4,Clothes & Shoes,Clothes,Tracker Clothes,5672,152079.12,282492.619999999
+2000,2000Q4,Clothes & Shoes,Clothes,Twain,125,17008.95,32990.2
+2000,2000Q4,Clothes & Shoes,Shoes,Eclipse Shoes,5216,257321.02,517964.419999999
+2000,2000Q4,Clothes & Shoes,Shoes,Shoes,2284,118675.31,221648.56
+2000,2000Q4,Clothes & Shoes,Shoes,Tracker Shoes,2933,122145.02,224944.12
+2000,2000Q4,Outdoors,Outdoors,Anoraks & Parkas,3238,254761.270000002,460477.619999999
+2000,2000Q4,Outdoors,Outdoors,Backpacks,1411,92640.9,174725
+2000,2000Q4,Outdoors,Outdoors,Gloves & Mittens,683,16539.85,28644.3
+2000,2000Q4,Outdoors,Outdoors,Knitted Accessories,516,6414.78000000001,11070.68
+2000,2000Q4,Outdoors,Outdoors,Outdoor Gear,2656,113955.549999999,201261.700000001
+2000,2000Q4,Outdoors,Outdoors,Sleepingbags,2419,112989.55,222592.000000002
+2000,2000Q4,Outdoors,Outdoors,Tents,1072,191251.399999999,386485.199999999
+2000,2000Q4,Sports,Assorted Sports Articles,Assorted Sports articles,7738,265022.095,479901.845
+2000,2000Q4,Sports,Assorted Sports Articles,Darts,2411,45726.55,77967.2999999997
+2000,2000Q4,Sports,Assorted Sports Articles,Petanque - Boule,498,12224.2,22120.3
+2000,2000Q4,Sports,Assorted Sports Articles,Skates,3063,290973,600297.000000001
+2000,2000Q4,Sports,Golf,Golf,2735,143613.57,295075.62
+2000,2000Q4,Sports,Golf,Golf Clothes,896,76022.08,103682.83
+2000,2000Q4,Sports,Indoor Sports,Fitness,698,72077.42,144310.92
+2000,2000Q4,Sports,Indoor Sports,Gymnastic Clothing,492,12888.56,22941.96
+2000,2000Q4,Sports,Indoor Sports,Top Trim,470,51115.07,94266.8200000001
+2000,2000Q4,Sports,Racket Sports,Badminton,228,28366.55,37390.2
+2000,2000Q4,Sports,Racket Sports,Racket Sports,1266,111316.2,190717.1
+2000,2000Q4,Sports,Racket Sports,Tennis,1087,27775.84,48377.4400000001
+2000,2000Q4,Sports,Running - Jogging,Jogging,1954,66493.53,118474.43
+2000,2000Q4,Sports,Running - Jogging,Running Clothes,2805,69648.8799999997,126369.33
+2000,2000Q4,Sports,Swim Sports,Bathing Suits,1496,29786.2499999999,50793.2000000002
+2000,2000Q4,Sports,Team Sports,American Football,723,9636.93000000001,17351.2
+2000,2000Q4,Sports,Team Sports,Baseball,739,7507.49999999999,13218.7
+2000,2000Q4,Sports,Team Sports,Basket Ball,264,3389.11999999999,5376.21999999999
+2000,2000Q4,Sports,Team Sports,Soccer,2379,42440.8100000001,83017.0600000001
+2000,2000Q4,Sports,Winter Sports,Ski Dress,1435,200689.6,353915.249999999
+2000,2000Q4,Sports,Winter Sports,Winter Sports,2729,143356.23,258000.48
+2001,2001Q1,Children,Children Sports,"A-Team, Kids",260,4400.95,7957.2
+2001,2001Q1,Children,Children Sports,"Bathing Suits, Kids",81,1384.75,2394.3
+2001,2001Q1,Children,Children Sports,"Eclipse, Kid's Clothes",471,7524.55000000001,15135
+2001,2001Q1,Children,Children Sports,"Eclipse, Kid's Shoes",300,6474.65,13007.3
+2001,2001Q1,Children,Children Sports,"Lucky Guy, Kids",241,5439.60000000001,9935.9
+2001,2001Q1,Children,Children Sports,"N.D. Gear, Kids",701,18008.5,32189.9
+2001,2001Q1,Children,Children Sports,"Olssons, Kids",206,1897.7,3211.8
+2001,2001Q1,Children,Children Sports,Orion Kid's Clothes,10,209.8,422.3
+2001,2001Q1,Children,Children Sports,"Osprey, Kids",405,6618.09999999999,11926.4
+2001,2001Q1,Children,Children Sports,Tracker Kid's Clothes,1010,18806.5,34478.1
+2001,2001Q1,Children,Children Sports,"Ypsilon, Kids",102,2320.6,4111.1
+2001,2001Q1,Clothes & Shoes,Clothes,Eclipse Clothing,2846,82145.3500000002,164617.4
+2001,2001Q1,Clothes & Shoes,Clothes,Green Tomato,150,4370.5,7283.99999999999
+2001,2001Q1,Clothes & Shoes,Clothes,Knitwear,1512,75969.4800000001,133091.48
+2001,2001Q1,Clothes & Shoes,Clothes,LSF,289,14907.05,28710.5
+2001,2001Q1,Clothes & Shoes,Clothes,Leisure,344,15862.2499999999,28693.9
+2001,2001Q1,Clothes & Shoes,Clothes,Massif,41,6418.15,12249.6
+2001,2001Q1,Clothes & Shoes,Clothes,Orion,779,38263.8,72821.1
+2001,2001Q1,Clothes & Shoes,Clothes,Orion Clothing,456,13140.95,25130.1
+2001,2001Q1,Clothes & Shoes,Clothes,Osprey,271,9126.2,15387.9
+2001,2001Q1,Clothes & Shoes,Clothes,Shorts,146,2189.65,3907.1
+2001,2001Q1,Clothes & Shoes,Clothes,Stockings & Socks,263,2479.15,4167.3
+2001,2001Q1,Clothes & Shoes,Clothes,Street Wear,436,18403.35,31806.5
+2001,2001Q1,Clothes & Shoes,Clothes,T-Shirts,336,5588.60000000001,10003.8
+2001,2001Q1,Clothes & Shoes,Clothes,Tracker Clothes,2515,68410.05,125967.699999999
+2001,2001Q1,Clothes & Shoes,Clothes,Twain,77,10627.775,20789.475
+2001,2001Q1,Clothes & Shoes,Shoes,Eclipse Shoes,3908,194683.2,391706.099999999
+2001,2001Q1,Clothes & Shoes,Shoes,Shoes,1759,93756.55,174353.1
+2001,2001Q1,Clothes & Shoes,Shoes,Tracker Shoes,2116,90265.9499999993,166033.7
+2001,2001Q1,Outdoors,Outdoors,Anoraks & Parkas,3311,275094.61,491234.159999998
+2001,2001Q1,Outdoors,Outdoors,Backpacks,645,45798.3999999999,86314.8999999999
+2001,2001Q1,Outdoors,Outdoors,Gloves & Mittens,311,8110,13997.1
+2001,2001Q1,Outdoors,Outdoors,Knitted Accessories,527,6231.54,10812.74
+2001,2001Q1,Outdoors,Outdoors,Outdoor Gear,1991,87643.5999999997,155197.8
+2001,2001Q1,Outdoors,Outdoors,Sleepingbags,1662,76454.1999999999,150511.900000001
+2001,2001Q1,Outdoors,Outdoors,Tents,709,130191.3,261784.5
+2001,2001Q1,Sports,Assorted Sports Articles,Assorted Sports articles,4201,145961.3,264645.6
+2001,2001Q1,Sports,Assorted Sports Articles,Darts,1216,23381.25,39838.9000000002
+2001,2001Q1,Sports,Assorted Sports Articles,Petanque - Boule,410,9905.44999999998,17831.6
+2001,2001Q1,Sports,Assorted Sports Articles,Skates,1961,189205.95,390192.6
+2001,2001Q1,Sports,Golf,Golf,1529,78176.2,160181
+2001,2001Q1,Sports,Golf,Golf Clothes,527,42292.7,58726.7
+2001,2001Q1,Sports,Indoor Sports,Fitness,558,42007.84,85025.0399999999
+2001,2001Q1,Sports,Indoor Sports,Gymnastic Clothing,287,7693.91,13695.16
+2001,2001Q1,Sports,Indoor Sports,Top Trim,277,27318.5,48827.2
+2001,2001Q1,Sports,Racket Sports,Badminton,127,12913.55,17447.9
+2001,2001Q1,Sports,Racket Sports,Racket Sports,578,46883.2,80469.8999999999
+2001,2001Q1,Sports,Racket Sports,Tennis,521,14140.25,24242.9
+2001,2001Q1,Sports,Running - Jogging,Jogging,1440,51709.15,90240.4
+2001,2001Q1,Sports,Running - Jogging,Running Clothes,2148,52945.3000000001,95349.8999999999
+2001,2001Q1,Sports,Swim Sports,Bathing Suits,1127,23239.85,39737.7000000002
+2001,2001Q1,Sports,Team Sports,American Football,356,4934.81000000001,8803.83000000001
+2001,2001Q1,Sports,Team Sports,Baseball,333,3137.45,5703.7
+2001,2001Q1,Sports,Team Sports,Basket Ball,168,2178.48,3439.82999999999
+2001,2001Q1,Sports,Team Sports,Soccer,1216,22471.3000000001,43125.1
+2001,2001Q1,Sports,Winter Sports,Ski Dress,1517,208741.68,373279.23
+2001,2001Q1,Sports,Winter Sports,Winter Sports,2722,149392.165,266562.465
+2001,2001Q2,Children,Children Sports,"A-Team, Kids",486,7939.45,14354.7
+2001,2001Q2,Children,Children Sports,"Bathing Suits, Kids",162,2930.33,5052.48
+2001,2001Q2,Children,Children Sports,"Eclipse, Kid's Clothes",1088,17082.14,34257.79
+2001,2001Q2,Children,Children Sports,"Eclipse, Kid's Shoes",629,13569.09,27466.34
+2001,2001Q2,Children,Children Sports,"Lucky Guy, Kids",553,12789.5,23294.4
+2001,2001Q2,Children,Children Sports,"N.D. Gear, Kids",1476,39146.35,70045.5
+2001,2001Q2,Children,Children Sports,"Olssons, Kids",491,4804.7,8059.20000000001
+2001,2001Q2,Children,Children Sports,Orion Kid's Clothes,25,464.2,934.7
+2001,2001Q2,Children,Children Sports,"Osprey, Kids",838,12854.47,23423.07
+2001,2001Q2,Children,Children Sports,Tracker Kid's Clothes,2306,43081.39,79298.7899999999
+2001,2001Q2,Children,Children Sports,"Ypsilon, Kids",257,5643.7,9999.7
+2001,2001Q2,Clothes & Shoes,Clothes,Eclipse Clothing,5626,159617.769999999,320641.670000001
+2001,2001Q2,Clothes & Shoes,Clothes,Green Tomato,346,9755.34999999999,16263.2
+2001,2001Q2,Clothes & Shoes,Clothes,Knitwear,892,47087.0500000001,82131.1999999997
+2001,2001Q2,Clothes & Shoes,Clothes,LSF,646,33198.65,63659.6000000001
+2001,2001Q2,Clothes & Shoes,Clothes,Leisure,665,31427.2999999999,56815.6
+2001,2001Q2,Clothes & Shoes,Clothes,Massif,61,9652.7,18422.7
+2001,2001Q2,Clothes & Shoes,Clothes,Orion,1449,70666.0799999999,135304.68
+2001,2001Q2,Clothes & Shoes,Clothes,Orion Clothing,859,25353.39,48834.34
+2001,2001Q2,Clothes & Shoes,Clothes,Osprey,541,18267.35,31005.5
+2001,2001Q2,Clothes & Shoes,Clothes,Shorts,262,3774.65,6761.1
+2001,2001Q2,Clothes & Shoes,Clothes,Stockings & Socks,428,3857.25,6501.2
+2001,2001Q2,Clothes & Shoes,Clothes,Street Wear,943,40528.62,70215.37
+2001,2001Q2,Clothes & Shoes,Clothes,T-Shirts,623,9782.59999999999,18033.4
+2001,2001Q2,Clothes & Shoes,Clothes,Tracker Clothes,5107,137756.39,253540.29
+2001,2001Q2,Clothes & Shoes,Clothes,Twain,148,20921.875,40876.075
+2001,2001Q2,Clothes & Shoes,Shoes,Eclipse Shoes,6092,298666.359999999,604671.560000002
+2001,2001Q2,Clothes & Shoes,Shoes,Shoes,2742,147483.95,274083.55
+2001,2001Q2,Clothes & Shoes,Shoes,Tracker Shoes,3246,135879.66,250277.51
+2001,2001Q2,Outdoors,Outdoors,Anoraks & Parkas,2243,182233.01,326998.160000001
+2001,2001Q2,Outdoors,Outdoors,Backpacks,1708,115082.48,219388.78
+2001,2001Q2,Outdoors,Outdoors,Gloves & Mittens,277,6956.45,12100
+2001,2001Q2,Outdoors,Outdoors,Knitted Accessories,185,2184.1,3688.8
+2001,2001Q2,Outdoors,Outdoors,Outdoor Gear,5049,218366.040000001,388661.339999999
+2001,2001Q2,Outdoors,Outdoors,Sleepingbags,4202,189792.1,374115.200000001
+2001,2001Q2,Outdoors,Outdoors,Tents,1797,329385.749999999,666669.400000003
+2001,2001Q2,Sports,Assorted Sports Articles,Assorted Sports articles,6939,245135.835,444330.685000002
+2001,2001Q2,Sports,Assorted Sports Articles,Darts,1171,21818.0000000001,37191.5000000002
+2001,2001Q2,Sports,Assorted Sports Articles,Petanque - Boule,1136,27900.6999999999,50446.8
+2001,2001Q2,Sports,Assorted Sports Articles,Skates,4947,451698.600000001,962485.499999999
+2001,2001Q2,Sports,Golf,Golf,3349,177456.68,371941.48
+2001,2001Q2,Sports,Golf,Golf Clothes,1169,95503.6399999999,132370.64
+2001,2001Q2,Sports,Indoor Sports,Fitness,254,20532.8,41208.7
+2001,2001Q2,Sports,Indoor Sports,Gymnastic Clothing,170,4567.95,8087.5
+2001,2001Q2,Sports,Indoor Sports,Top Trim,156,17004.6,30613.2
+2001,2001Q2,Sports,Racket Sports,Badminton,76,11589.95,15037.5
+2001,2001Q2,Sports,Racket Sports,Racket Sports,945,83978.6,142454.1
+2001,2001Q2,Sports,Racket Sports,Tennis,1433,38117.93,66206.7799999999
+2001,2001Q2,Sports,Running - Jogging,Jogging,2370,82542.5299999999,144683.78
+2001,2001Q2,Sports,Running - Jogging,Running Clothes,3258,80306.8099999999,145057.96
+2001,2001Q2,Sports,Swim Sports,Bathing Suits,3277,65354.0800000001,113688.73
+2001,2001Q2,Sports,Team Sports,American Football,917,12336.45,22128.5399999999
+2001,2001Q2,Sports,Team Sports,Baseball,806,8145.99,14413.29
+2001,2001Q2,Sports,Team Sports,Basket Ball,109,1349.7,2177.35
+2001,2001Q2,Sports,Team Sports,Soccer,3527,64959.9000000001,127046.75
+2001,2001Q2,Sports,Winter Sports,Ski Dress,496,72229.9,126979
+2001,2001Q2,Sports,Winter Sports,Winter Sports,962,54820.8499999999,97514.1
+2001,2001Q3,Children,Children Sports,"A-Team, Kids",563,8819.13999999999,16399.59
+2001,2001Q3,Children,Children Sports,"Bathing Suits, Kids",199,3588.15,6162.4
+2001,2001Q3,Children,Children Sports,"Eclipse, Kid's Clothes",1187,19504.86,39217.86
+2001,2001Q3,Children,Children Sports,"Eclipse, Kid's Shoes",740,15608.21,31499.11
+2001,2001Q3,Children,Children Sports,"Lucky Guy, Kids",540,12749.15,23165.9
+2001,2001Q3,Children,Children Sports,"N.D. Gear, Kids",1515,39982.2799999999,72023.48
+2001,2001Q3,Children,Children Sports,"Olssons, Kids",499,4403.55,7392.29999999999
+2001,2001Q3,Children,Children Sports,Orion Kid's Clothes,15,281.2,566.2
+2001,2001Q3,Children,Children Sports,"Osprey, Kids",912,14212.64,25676.89
+2001,2001Q3,Children,Children Sports,Tracker Kid's Clothes,2356,41366.2,76705.7
+2001,2001Q3,Children,Children Sports,"Ypsilon, Kids",233,5321.05,9430.8
+2001,2001Q3,Clothes & Shoes,Clothes,Eclipse Clothing,6104,170386.35,344639.150000001
+2001,2001Q3,Clothes & Shoes,Clothes,Green Tomato,383,10026.53,17038.78
+2001,2001Q3,Clothes & Shoes,Clothes,Knitwear,633,31543.8,55058.6
+2001,2001Q3,Clothes & Shoes,Clothes,LSF,692,36469.2,70266.2
+2001,2001Q3,Clothes & Shoes,Clothes,Leisure,668,30308.4199999999,54974.32
+2001,2001Q3,Clothes & Shoes,Clothes,Massif,64,9938.8,18968.8
+2001,2001Q3,Clothes & Shoes,Clothes,Orion,1638,79430.44,151846.24
+2001,2001Q3,Clothes & Shoes,Clothes,Orion Clothing,916,25416.09,48722.24
+2001,2001Q3,Clothes & Shoes,Clothes,Osprey,566,19266.35,33014
+2001,2001Q3,Clothes & Shoes,Clothes,Shorts,264,3663.61,6665.66
+2001,2001Q3,Clothes & Shoes,Clothes,Stockings & Socks,482,4404.71,7522.11
+2001,2001Q3,Clothes & Shoes,Clothes,Street Wear,836,34577.99,59540.19
+2001,2001Q3,Clothes & Shoes,Clothes,T-Shirts,756,12605.2,22559.5
+2001,2001Q3,Clothes & Shoes,Clothes,Tracker Clothes,5280,141060.67,262214.32
+2001,2001Q3,Clothes & Shoes,Clothes,Twain,138,19323.4,37225.4
+2001,2001Q3,Clothes & Shoes,Shoes,Eclipse Shoes,6371,317581.22,642071.319999998
+2001,2001Q3,Clothes & Shoes,Shoes,Shoes,2791,148702.45,277404.95
+2001,2001Q3,Clothes & Shoes,Shoes,Tracker Shoes,3377,136565.61,254908.61
+2001,2001Q3,Outdoors,Outdoors,Anoraks & Parkas,1285,103087.75,183940.1
+2001,2001Q3,Outdoors,Outdoors,Backpacks,1459,100603.08,189967.18
+2001,2001Q3,Outdoors,Outdoors,Gloves & Mittens,290,6981.2,12124
+2001,2001Q3,Outdoors,Outdoors,Knitted Accessories,186,2263.35,3856.8
+2001,2001Q3,Outdoors,Outdoors,Outdoor Gear,4251,190108.24,335993.39
+2001,2001Q3,Outdoors,Outdoors,Sleepingbags,3587,168217.7,331280.2
+2001,2001Q3,Outdoors,Outdoors,Tents,1673,302428.45,610699
+2001,2001Q3,Sports,Assorted Sports Articles,Assorted Sports articles,7179,251979.49,457851.24
+2001,2001Q3,Sports,Assorted Sports Articles,Darts,991,18822.3,32075.3000000001
+2001,2001Q3,Sports,Assorted Sports Articles,Petanque - Boule,872,21219.65,38342.1
+2001,2001Q3,Sports,Assorted Sports Articles,Skates,4413,417161.029999999,873089.380000003
+2001,2001Q3,Sports,Golf,Golf,3229,162799.81,337194.51
+2001,2001Q3,Sports,Golf,Golf Clothes,1074,83380.96,117781.31
+2001,2001Q3,Sports,Indoor Sports,Fitness,396,32046.8,64144.8
+2001,2001Q3,Sports,Indoor Sports,Gymnastic Clothing,287,7050.59999999999,12423.1
+2001,2001Q3,Sports,Indoor Sports,Top Trim,272,29156.1,52245.2
+2001,2001Q3,Sports,Racket Sports,Badminton,131,11725.4,16688.3
+2001,2001Q3,Sports,Racket Sports,Racket Sports,1077,91649.2999999999,157367.1
+2001,2001Q3,Sports,Racket Sports,Tennis,959,23983.42,41269.0199999999
+2001,2001Q3,Sports,Running - Jogging,Jogging,2251,79491.7,139247.2
+2001,2001Q3,Sports,Running - Jogging,Running Clothes,3494,86106.3299999998,158167.63
+2001,2001Q3,Sports,Swim Sports,Bathing Suits,2705,54835.05,94721.7
+2001,2001Q3,Sports,Team Sports,American Football,845,10287.7,19477.41
+2001,2001Q3,Sports,Team Sports,Baseball,754,6963.36,12829.31
+2001,2001Q3,Sports,Team Sports,Basket Ball,193,2377.62,3844.87
+2001,2001Q3,Sports,Team Sports,Soccer,2316,41941.1700000001,80890.77
+2001,2001Q3,Sports,Winter Sports,Ski Dress,530,74678.2499999999,131573.7
+2001,2001Q3,Sports,Winter Sports,Winter Sports,953,53210.3000000001,94691.6999999998
+2001,2001Q4,Children,Children Sports,"A-Team, Kids",449,7524.94,13664.84
+2001,2001Q4,Children,Children Sports,"Bathing Suits, Kids",91,1629.55,2795
+2001,2001Q4,Children,Children Sports,"Eclipse, Kid's Clothes",848,13837.19,27845.64
+2001,2001Q4,Children,Children Sports,"Eclipse, Kid's Shoes",595,12189.9,24826.2
+2001,2001Q4,Children,Children Sports,"Lucky Guy, Kids",551,11769.05,21556.8
+2001,2001Q4,Children,Children Sports,"N.D. Gear, Kids",1327,35398.02,63285.3200000001
+2001,2001Q4,Children,Children Sports,"Olssons, Kids",371,3393.75,5737.89999999999
+2001,2001Q4,Children,Children Sports,Orion Kid's Clothes,36,859.8,1730.1
+2001,2001Q4,Children,Children Sports,"Osprey, Kids",766,11734.33,21287.98
+2001,2001Q4,Children,Children Sports,Tracker Kid's Clothes,2010,35462.4799999999,65294.58
+2001,2001Q4,Children,Children Sports,"Ypsilon, Kids",240,5435.6,9627.59999999999
+2001,2001Q4,Clothes & Shoes,Clothes,Eclipse Clothing,5109,143526.2,288906.2
+2001,2001Q4,Clothes & Shoes,Clothes,Green Tomato,301,8387.05,14447
+2001,2001Q4,Clothes & Shoes,Clothes,Knitwear,1081,57290.4000000001,100126.9
+2001,2001Q4,Clothes & Shoes,Clothes,LSF,601,29511.63,57776.28
+2001,2001Q4,Clothes & Shoes,Clothes,Leisure,555,25857.3,46757.8000000001
+2001,2001Q4,Clothes & Shoes,Clothes,Massif,67,10407.95,19864.2
+2001,2001Q4,Clothes & Shoes,Clothes,Orion,1252,61809.59,119149.44
+2001,2001Q4,Clothes & Shoes,Clothes,Orion Clothing,766,20855.81,40038.46
+2001,2001Q4,Clothes & Shoes,Clothes,Osprey,494,16170.54,27530.24
+2001,2001Q4,Clothes & Shoes,Clothes,Shorts,133,2120.85,3773.4
+2001,2001Q4,Clothes & Shoes,Clothes,Stockings & Socks,526,4849.4,8220.50000000001
+2001,2001Q4,Clothes & Shoes,Clothes,Street Wear,709,27466.3,47478.4
+2001,2001Q4,Clothes & Shoes,Clothes,T-Shirts,333,5294.55000000001,9501.2
+2001,2001Q4,Clothes & Shoes,Clothes,Tracker Clothes,4409,118537.36,220603.16
+2001,2001Q4,Clothes & Shoes,Clothes,Twain,105,14314.825,28059.075
+2001,2001Q4,Clothes & Shoes,Shoes,Eclipse Shoes,4350,213616.02,430365.52
+2001,2001Q4,Clothes & Shoes,Shoes,Shoes,2076,109573.32,204982.02
+2001,2001Q4,Clothes & Shoes,Shoes,Tracker Shoes,2519,107357.87,197815.82
+2001,2001Q4,Outdoors,Outdoors,Anoraks & Parkas,2705,213020.110000001,384412.26
+2001,2001Q4,Outdoors,Outdoors,Backpacks,1152,83514.25,157175.9
+2001,2001Q4,Outdoors,Outdoors,Gloves & Mittens,616,15519.95,26825.1
+2001,2001Q4,Outdoors,Outdoors,Knitted Accessories,437,5154.15000000001,8839.8
+2001,2001Q4,Outdoors,Outdoors,Outdoor Gear,2240,96273.7499999995,170270.300000001
+2001,2001Q4,Outdoors,Outdoors,Sleepingbags,2130,97837.9000000001,192715.900000001
+2001,2001Q4,Outdoors,Outdoors,Tents,903,164364.950000001,334582.499999998
+2001,2001Q4,Sports,Assorted Sports Articles,Assorted Sports articles,6295,223198.065,405814.764999999
+2001,2001Q4,Sports,Assorted Sports Articles,Darts,2281,43525.9,74213.9
+2001,2001Q4,Sports,Assorted Sports Articles,Petanque - Boule,476,11585.7,20909.7
+2001,2001Q4,Sports,Assorted Sports Articles,Skates,2294,216547.15,450623.600000001
+2001,2001Q4,Sports,Golf,Golf,2384,131487.17,270341.170000001
+2001,2001Q4,Sports,Golf,Golf Clothes,780,64740.3399999999,88638.6899999998
+2001,2001Q4,Sports,Indoor Sports,Fitness,619,59906.43,120162.18
+2001,2001Q4,Sports,Indoor Sports,Gymnastic Clothing,349,9343.92999999999,16622.58
+2001,2001Q4,Sports,Indoor Sports,Top Trim,298,30573.29,56340.64
+2001,2001Q4,Sports,Racket Sports,Badminton,201,27969.9,36130.6
+2001,2001Q4,Sports,Racket Sports,Racket Sports,1148,103294.1,174245.8
+2001,2001Q4,Sports,Racket Sports,Tennis,926,24122.9800000001,41829.2299999999
+2001,2001Q4,Sports,Running - Jogging,Jogging,1577,54408.74,96420.9900000001
+2001,2001Q4,Sports,Running - Jogging,Running Clothes,2432,57557.3900000001,104704.79
+2001,2001Q4,Sports,Swim Sports,Bathing Suits,1332,28450.1,48542.0000000003
+2001,2001Q4,Sports,Team Sports,American Football,710,9141.93000000001,16828.57
+2001,2001Q4,Sports,Team Sports,Baseball,596,6059.44,10620.94
+2001,2001Q4,Sports,Team Sports,Basket Ball,222,2863.48,4532.47999999999
+2001,2001Q4,Sports,Team Sports,Soccer,2189,40565.1500000002,78920.0500000001
+2001,2001Q4,Sports,Winter Sports,Ski Dress,1293,187396.14,329550.839999999
+2001,2001Q4,Sports,Winter Sports,Winter Sports,2638,144591.3,261052.450000001
+2002,2002Q1,Children,Children Sports,"A-Team, Kids",219,3799.3,6866.7
+2002,2002Q1,Children,Children Sports,"Bathing Suits, Kids",92,1617.7,2801.6
+2002,2002Q1,Children,Children Sports,"Eclipse, Kid's Clothes",538,9039.05000000001,18118.9
+2002,2002Q1,Children,Children Sports,"Eclipse, Kid's Shoes",336,7298.25,14661.5
+2002,2002Q1,Children,Children Sports,"Lucky Guy, Kids",280,6247.85000000001,11416.2
+2002,2002Q1,Children,Children Sports,"N.D. Gear, Kids",720,19528.5499999999,34897.5
+2002,2002Q1,Children,Children Sports,"Olssons, Kids",218,1952.8,3269.69999999999
+2002,2002Q1,Children,Children Sports,Orion Kid's Clothes,14,256.2,515.9
+2002,2002Q1,Children,Children Sports,"Osprey, Kids",465,7370.74999999999,13340.7
+2002,2002Q1,Children,Children Sports,Tracker Kid's Clothes,1184,21553.55,39517.5
+2002,2002Q1,Children,Children Sports,"Ypsilon, Kids",117,2475.5,4386.6
+2002,2002Q1,Clothes & Shoes,Clothes,Eclipse Clothing,2740,77701.9500000001,155700.2
+2002,2002Q1,Clothes & Shoes,Clothes,Green Tomato,168,4826.3,8045.5
+2002,2002Q1,Clothes & Shoes,Clothes,Knitwear,1399,74232.53,129822.98
+2002,2002Q1,Clothes & Shoes,Clothes,LSF,325,17010.2,32791.6
+2002,2002Q1,Clothes & Shoes,Clothes,Leisure,318,14147.3,25626.3
+2002,2002Q1,Clothes & Shoes,Clothes,Massif,32,5100.15,9733.9
+2002,2002Q1,Clothes & Shoes,Clothes,Orion,664,33389.0499999999,63403.4000000001
+2002,2002Q1,Clothes & Shoes,Clothes,Orion Clothing,442,13076.2,25009.5
+2002,2002Q1,Clothes & Shoes,Clothes,Osprey,241,7794.8,13140.9
+2002,2002Q1,Clothes & Shoes,Clothes,Shorts,119,1665.75,2986.1
+2002,2002Q1,Clothes & Shoes,Clothes,Stockings & Socks,232,2174.5,3692.4
+2002,2002Q1,Clothes & Shoes,Clothes,Street Wear,421,17592.9,30401.4
+2002,2002Q1,Clothes & Shoes,Clothes,T-Shirts,388,6514.80000000001,11676.9
+2002,2002Q1,Clothes & Shoes,Clothes,Tracker Clothes,2520,68550,126096.5
+2002,2002Q1,Clothes & Shoes,Clothes,Twain,67,9320.325,18284.725
+2002,2002Q1,Clothes & Shoes,Shoes,Eclipse Shoes,4202,206316.900000001,415397.899999999
+2002,2002Q1,Clothes & Shoes,Shoes,Shoes,1970,106128.05,196485.799999999
+2002,2002Q1,Clothes & Shoes,Shoes,Tracker Shoes,2392,99121.0999999994,182536.900000001
+2002,2002Q1,Outdoors,Outdoors,Anoraks & Parkas,3465,281997.689999999,503776.439999998
+2002,2002Q1,Outdoors,Outdoors,Backpacks,655,43665.7499999999,82472.4
+2002,2002Q1,Outdoors,Outdoors,Gloves & Mittens,317,7515.8,13057.5
+2002,2002Q1,Outdoors,Outdoors,Knitted Accessories,422,5040.01,8672.56
+2002,2002Q1,Outdoors,Outdoors,Outdoor Gear,2081,92439.3999999995,163232.900000001
+2002,2002Q1,Outdoors,Outdoors,Sleepingbags,1759,81254.2999999999,159951.100000001
+2002,2002Q1,Outdoors,Outdoors,Tents,818,151894.4,305813.899999999
+2002,2002Q1,Sports,Assorted Sports Articles,Assorted Sports articles,4012,138444.65,250449.350000001
+2002,2002Q1,Sports,Assorted Sports Articles,Darts,1226,23131.2000000001,39433.4000000001
+2002,2002Q1,Sports,Assorted Sports Articles,Petanque - Boule,411,10018.05,18090.4
+2002,2002Q1,Sports,Assorted Sports Articles,Skates,1942,185717.9,384703.7
+2002,2002Q1,Sports,Golf,Golf,1654,91135.4,186606.4
+2002,2002Q1,Sports,Golf,Golf Clothes,540,41645.9,58741.2
+2002,2002Q1,Sports,Indoor Sports,Fitness,514,51669.1,102889.7
+2002,2002Q1,Sports,Indoor Sports,Gymnastic Clothing,340,9255.73,16431.18
+2002,2002Q1,Sports,Indoor Sports,Top Trim,335,36919,66209.3
+2002,2002Q1,Sports,Racket Sports,Badminton,125,13589.9,18493.3
+2002,2002Q1,Sports,Racket Sports,Racket Sports,536,42952.2,74189.5
+2002,2002Q1,Sports,Racket Sports,Tennis,507,13208.95,22737.5
+2002,2002Q1,Sports,Running - Jogging,Jogging,1524,54407.9499999998,95039.5
+2002,2002Q1,Sports,Running - Jogging,Running Clothes,2335,60493.1000000001,108786.3
+2002,2002Q1,Sports,Swim Sports,Bathing Suits,1194,25312.8,43163.8000000001
+2002,2002Q1,Sports,Team Sports,American Football,364,5049.72000000002,8958.28000000001
+2002,2002Q1,Sports,Team Sports,Baseball,336,3053.6,5533.99999999999
+2002,2002Q1,Sports,Team Sports,Basket Ball,173,2094.5,3415.05
+2002,2002Q1,Sports,Team Sports,Soccer,1288,24050.7500000002,46040.2
+2002,2002Q1,Sports,Winter Sports,Ski Dress,1526,209548.91,372969.060000001
+2002,2002Q1,Sports,Winter Sports,Winter Sports,2778,149387.885,265869.435
+2002,2002Q2,Children,Children Sports,"A-Team, Kids",662,10525.7,19016.1
+2002,2002Q2,Children,Children Sports,"Bathing Suits, Kids",271,4590.06,7932.61
+2002,2002Q2,Children,Children Sports,"Eclipse, Kid's Clothes",1229,20736.21,41601.16
+2002,2002Q2,Children,Children Sports,"Eclipse, Kid's Shoes",805,16897.21,34121.16
+2002,2002Q2,Children,Children Sports,"Lucky Guy, Kids",599,14919.05,26997.2
+2002,2002Q2,Children,Children Sports,"N.D. Gear, Kids",1823,47881.3799999999,85753.43
+2002,2002Q2,Children,Children Sports,"Olssons, Kids",530,4854.95,8136.7
+2002,2002Q2,Children,Children Sports,Orion Kid's Clothes,39,774,1558.2
+2002,2002Q2,Children,Children Sports,"Osprey, Kids",1010,16364.46,29534.06
+2002,2002Q2,Children,Children Sports,Tracker Kid's Clothes,2895,52430.61,96240.0099999997
+2002,2002Q2,Children,Children Sports,"Ypsilon, Kids",292,6469.35,11463.9
+2002,2002Q2,Clothes & Shoes,Clothes,Eclipse Clothing,5866,168167.72,337558.92
+2002,2002Q2,Clothes & Shoes,Clothes,Green Tomato,338,10033.4,16721.8
+2002,2002Q2,Clothes & Shoes,Clothes,Knitwear,947,48550.1500000001,84475.8
+2002,2002Q2,Clothes & Shoes,Clothes,LSF,624,32034.8,61617.5
+2002,2002Q2,Clothes & Shoes,Clothes,Leisure,571,24609.35,44626.5
+2002,2002Q2,Clothes & Shoes,Clothes,Massif,81,12797.8,24425.3
+2002,2002Q2,Clothes & Shoes,Clothes,Orion,1498,75422.6900000001,144679.44
+2002,2002Q2,Clothes & Shoes,Clothes,Orion Clothing,904,25612.6,49193
+2002,2002Q2,Clothes & Shoes,Clothes,Osprey,522,17857.45,30168.1
+2002,2002Q2,Clothes & Shoes,Clothes,Shorts,233,3424.9,6123.89999999999
+2002,2002Q2,Clothes & Shoes,Clothes,Stockings & Socks,454,4237.65,7166.6
+2002,2002Q2,Clothes & Shoes,Clothes,Street Wear,834,33827.06,58841.8600000001
+2002,2002Q2,Clothes & Shoes,Clothes,T-Shirts,655,9840.44,18140.09
+2002,2002Q2,Clothes & Shoes,Clothes,Tracker Clothes,5116,141852.220000001,261717.82
+2002,2002Q2,Clothes & Shoes,Clothes,Twain,113,16144.5,31879.6
+2002,2002Q2,Clothes & Shoes,Shoes,Eclipse Shoes,7060,347787.39,702804.590000001
+2002,2002Q2,Clothes & Shoes,Shoes,Shoes,3175,172755.36,321354.26
+2002,2002Q2,Clothes & Shoes,Shoes,Tracker Shoes,3917,162324.26,299897.210000001
+2002,2002Q2,Outdoors,Outdoors,Anoraks & Parkas,2518,198058.319999999,355448.97
+2002,2002Q2,Outdoors,Outdoors,Backpacks,1771,118116.269999999,226147.42
+2002,2002Q2,Outdoors,Outdoors,Gloves & Mittens,309,7601.1,13032.4
+2002,2002Q2,Outdoors,Outdoors,Knitted Accessories,207,2458.3,4169.2
+2002,2002Q2,Outdoors,Outdoors,Outdoor Gear,5291,228632.379999999,406024.880000001
+2002,2002Q2,Outdoors,Outdoors,Sleepingbags,4503,207331.100000001,408382.200000002
+2002,2002Q2,Outdoors,Outdoors,Tents,1967,367242.2,737287.5
+2002,2002Q2,Sports,Assorted Sports Articles,Assorted Sports articles,7591,275401.335000001,499683.684999999
+2002,2002Q2,Sports,Assorted Sports Articles,Darts,1161,21719.5000000001,37003.3000000002
+2002,2002Q2,Sports,Assorted Sports Articles,Petanque - Boule,1301,31578.0999999998,57075
+2002,2002Q2,Sports,Assorted Sports Articles,Skates,5130,472707.619999999,996883.020000001
+2002,2002Q2,Sports,Golf,Golf,3877,206982.12,431492.72
+2002,2002Q2,Sports,Golf,Golf Clothes,1314,102988.06,144363.86
+2002,2002Q2,Sports,Indoor Sports,Fitness,342,33548.25,67608.6999999999
+2002,2002Q2,Sports,Indoor Sports,Gymnastic Clothing,223,5821.2,10262.7
+2002,2002Q2,Sports,Indoor Sports,Top Trim,187,20542.55,36881.7
+2002,2002Q2,Sports,Racket Sports,Badminton,88,13079.85,16947.4
+2002,2002Q2,Sports,Racket Sports,Racket Sports,977,78666.0999999997,134981.1
+2002,2002Q2,Sports,Racket Sports,Tennis,1565,41115.76,71241.1099999999
+2002,2002Q2,Sports,Running - Jogging,Jogging,2406,87511.9800000001,152897.88
+2002,2002Q2,Sports,Running - Jogging,Running Clothes,3856,92467.7499999998,167118.65
+2002,2002Q2,Sports,Swim Sports,Bathing Suits,3704,74303.5400000001,127853.59
+2002,2002Q2,Sports,Team Sports,American Football,1115,15111.25,27149.26
+2002,2002Q2,Sports,Team Sports,Baseball,1008,10035.61,17746.61
+2002,2002Q2,Sports,Team Sports,Basket Ball,136,1683.44,2716.19
+2002,2002Q2,Sports,Team Sports,Soccer,3285,57621.6100000001,112509.11
+2002,2002Q2,Sports,Winter Sports,Ski Dress,516,74294.4999999999,130470.9
+2002,2002Q2,Sports,Winter Sports,Winter Sports,1044,57669.5000000002,102459.4
+2002,2002Q3,Children,Children Sports,"A-Team, Kids",656,10379.02,19201.17
+2002,2002Q3,Children,Children Sports,"Bathing Suits, Kids",254,4179.1,7203.6
+2002,2002Q3,Children,Children Sports,"Eclipse, Kid's Clothes",1474,23070.57,46540.32
+2002,2002Q3,Children,Children Sports,"Eclipse, Kid's Shoes",921,19333.77,38968.42
+2002,2002Q3,Children,Children Sports,"Lucky Guy, Kids",709,17706.1,31897.8
+2002,2002Q3,Children,Children Sports,"N.D. Gear, Kids",2165,58258.0099999999,104920.01
+2002,2002Q3,Children,Children Sports,"Olssons, Kids",552,5173.3,8652.79999999999
+2002,2002Q3,Children,Children Sports,Orion Kid's Clothes,35,714.2,1437.7
+2002,2002Q3,Children,Children Sports,"Osprey, Kids",1167,19038.52,34494.32
+2002,2002Q3,Children,Children Sports,Tracker Kid's Clothes,3161,56038.48,103788.88
+2002,2002Q3,Children,Children Sports,"Ypsilon, Kids",348,7665.05,13582.2
+2002,2002Q3,Clothes & Shoes,Clothes,Eclipse Clothing,7064,196834.31,396453.860000001
+2002,2002Q3,Clothes & Shoes,Clothes,Green Tomato,445,12981.81,21906.71
+2002,2002Q3,Clothes & Shoes,Clothes,Knitwear,792,38124.8,66429.4
+2002,2002Q3,Clothes & Shoes,Clothes,LSF,784,40188.5,77302.5999999999
+2002,2002Q3,Clothes & Shoes,Clothes,Leisure,748,34720.1199999999,62895.2200000001
+2002,2002Q3,Clothes & Shoes,Clothes,Massif,59,9217.9,17592.9
+2002,2002Q3,Clothes & Shoes,Clothes,Orion,1707,83634.09,160370.19
+2002,2002Q3,Clothes & Shoes,Clothes,Orion Clothing,1064,30805.83,59242.23
+2002,2002Q3,Clothes & Shoes,Clothes,Osprey,594,19935.15,33889.1
+2002,2002Q3,Clothes & Shoes,Clothes,Shorts,329,4347.53,8112.02999999999
+2002,2002Q3,Clothes & Shoes,Clothes,Stockings & Socks,636,5789.23,9901.28
+2002,2002Q3,Clothes & Shoes,Clothes,Street Wear,1093,42694.29,73876.59
+2002,2002Q3,Clothes & Shoes,Clothes,T-Shirts,880,14872.4,26607.8999999999
+2002,2002Q3,Clothes & Shoes,Clothes,Tracker Clothes,6201,164058.970000001,304687.67
+2002,2002Q3,Clothes & Shoes,Clothes,Twain,144,20598.675,40237.275
+2002,2002Q3,Clothes & Shoes,Shoes,Eclipse Shoes,7239,361886.799999999,730896.25
+2002,2002Q3,Clothes & Shoes,Shoes,Shoes,3345,183383.16,340427.959999999
+2002,2002Q3,Clothes & Shoes,Shoes,Tracker Shoes,4060,166378.76,310101.610000001
+2002,2002Q3,Outdoors,Outdoors,Anoraks & Parkas,1459,118857.65,211904.9
+2002,2002Q3,Outdoors,Outdoors,Backpacks,1589,106178.86,200897.16
+2002,2002Q3,Outdoors,Outdoors,Gloves & Mittens,346,8620.34999999999,14946.8
+2002,2002Q3,Outdoors,Outdoors,Knitted Accessories,199,2452.65,4191.8
+2002,2002Q3,Outdoors,Outdoors,Outdoor Gear,5204,219437.359999999,388148.51
+2002,2002Q3,Outdoors,Outdoors,Sleepingbags,4209,194732.5,383720.800000002
+2002,2002Q3,Outdoors,Outdoors,Tents,1806,329081.200000001,663071.099999998
+2002,2002Q3,Sports,Assorted Sports Articles,Assorted Sports articles,9026,308778.400000001,563197.949999998
+2002,2002Q3,Sports,Assorted Sports Articles,Darts,1219,23029.9500000001,39242.9000000002
+2002,2002Q3,Sports,Assorted Sports Articles,Petanque - Boule,1175,28291.6999999999,51226.5999999999
+2002,2002Q3,Sports,Assorted Sports Articles,Skates,5102,474326.59,987167.940000002
+2002,2002Q3,Sports,Golf,Golf,3917,206493.12,426945.32
+2002,2002Q3,Sports,Golf,Golf Clothes,1302,102041.13,144497.53
+2002,2002Q3,Sports,Indoor Sports,Fitness,604,57933.3000000001,114689
+2002,2002Q3,Sports,Indoor Sports,Gymnastic Clothing,394,10548.95,18714.7
+2002,2002Q3,Sports,Indoor Sports,Top Trim,365,41909.4,75215.3000000001
+2002,2002Q3,Sports,Racket Sports,Badminton,144,17031.05,22909.3
+2002,2002Q3,Sports,Racket Sports,Racket Sports,1267,102938.2,178123.1
+2002,2002Q3,Sports,Racket Sports,Tennis,1085,29572.93,51190.2299999999
+2002,2002Q3,Sports,Running - Jogging,Jogging,2478,87310.2,152525.9
+2002,2002Q3,Sports,Running - Jogging,Running Clothes,3997,95463.5399999998,174713.29
+2002,2002Q3,Sports,Swim Sports,Bathing Suits,3649,73296.25,126817.95
+2002,2002Q3,Sports,Team Sports,American Football,1417,17552.16,32824.09
+2002,2002Q3,Sports,Team Sports,Baseball,1230,11490.69,20958.59
+2002,2002Q3,Sports,Team Sports,Basket Ball,352,4347.52,7021.91999999998
+2002,2002Q3,Sports,Team Sports,Soccer,2706,48748.62,94286.9199999999
+2002,2002Q3,Sports,Winter Sports,Ski Dress,505,75256.4,131884.8
+2002,2002Q3,Sports,Winter Sports,Winter Sports,933,52940.8500000002,93873.7499999998
+2002,2002Q4,Children,Children Sports,"A-Team, Kids",779,13296.42,24109.72
+2002,2002Q4,Children,Children Sports,"Bathing Suits, Kids",124,2234.15,3845.1
+2002,2002Q4,Children,Children Sports,"Eclipse, Kid's Clothes",1386,22391.84,45032.84
+2002,2002Q4,Children,Children Sports,"Eclipse, Kid's Shoes",828,17454.79,35329.9399999999
+2002,2002Q4,Children,Children Sports,"Lucky Guy, Kids",731,17826.5,32316.8
+2002,2002Q4,Children,Children Sports,"N.D. Gear, Kids",2078,56768.4300000001,101752.28
+2002,2002Q4,Children,Children Sports,"Olssons, Kids",597,5596.45,9458.89999999999
+2002,2002Q4,Children,Children Sports,Orion Kid's Clothes,35,647.2,1303.2
+2002,2002Q4,Children,Children Sports,"Osprey, Kids",1170,18501.26,33562.3599999999
+2002,2002Q4,Children,Children Sports,Tracker Kid's Clothes,3124,56292.6299999997,104167.78
+2002,2002Q4,Children,Children Sports,"Ypsilon, Kids",361,8154.15,14452.1
+2002,2002Q4,Clothes & Shoes,Clothes,Eclipse Clothing,6358,180623.009999999,363695.560000002
+2002,2002Q4,Clothes & Shoes,Clothes,Green Tomato,400,11160.68,19266.18
+2002,2002Q4,Clothes & Shoes,Clothes,Knitwear,1459,75036.0000000001,130486.5
+2002,2002Q4,Clothes & Shoes,Clothes,LSF,700,33389.1,66879.4000000001
+2002,2002Q4,Clothes & Shoes,Clothes,Leisure,710,32320.6299999999,58620.7800000002
+2002,2002Q4,Clothes & Shoes,Clothes,Massif,107,16776.6,32019.1
+2002,2002Q4,Clothes & Shoes,Clothes,Orion,1560,78021.2200000001,149636.92
+2002,2002Q4,Clothes & Shoes,Clothes,Orion Clothing,951,26404.43,50556.28
+2002,2002Q4,Clothes & Shoes,Clothes,Osprey,612,19697.33,33937.88
+2002,2002Q4,Clothes & Shoes,Clothes,Shorts,186,2604.9,4663.69999999999
+2002,2002Q4,Clothes & Shoes,Clothes,Stockings & Socks,602,5739.24999999999,9692.29999999999
+2002,2002Q4,Clothes & Shoes,Clothes,Street Wear,1003,40856.8299999999,71004.48
+2002,2002Q4,Clothes & Shoes,Clothes,T-Shirts,406,6491.90000000001,11716
+2002,2002Q4,Clothes & Shoes,Clothes,Tracker Clothes,5394,144665.54,268550.439999999
+2002,2002Q4,Clothes & Shoes,Clothes,Twain,144,20182.85,38596.15
+2002,2002Q4,Clothes & Shoes,Shoes,Eclipse Shoes,5440,271347.35,546762.749999998
+2002,2002Q4,Clothes & Shoes,Shoes,Shoes,2788,145236.4,271780.3
+2002,2002Q4,Clothes & Shoes,Shoes,Tracker Shoes,3021,126857.64,233714.04
+2002,2002Q4,Outdoors,Outdoors,Anoraks & Parkas,3735,290743.190000002,526043.939999999
+2002,2002Q4,Outdoors,Outdoors,Backpacks,1730,121630,229079.5
+2002,2002Q4,Outdoors,Outdoors,Gloves & Mittens,825,20166.5,35077.1
+2002,2002Q4,Outdoors,Outdoors,Knitted Accessories,527,6157.46000000001,10520.86
+2002,2002Q4,Outdoors,Outdoors,Outdoor Gear,3182,136348.649999999,240801.200000001
+2002,2002Q4,Outdoors,Outdoors,Sleepingbags,2851,131291.35,258543.300000002
+2002,2002Q4,Outdoors,Outdoors,Tents,1228,225865.6,454389.699999999
+2002,2002Q4,Sports,Assorted Sports Articles,Assorted Sports articles,8460,295161.519999999,536336.62
+2002,2002Q4,Sports,Assorted Sports Articles,Darts,2769,53117.6499999999,90568.0999999996
+2002,2002Q4,Sports,Assorted Sports Articles,Petanque - Boule,727,17859.8999999999,32217.8
+2002,2002Q4,Sports,Assorted Sports Articles,Skates,2968,282413.6,583737.700000003
+2002,2002Q4,Sports,Golf,Golf,3669,188268.66,388254.310000001
+2002,2002Q4,Sports,Golf,Golf Clothes,1040,87281.77,123035.37
+2002,2002Q4,Sports,Indoor Sports,Fitness,1000,91794.6500000001,184762.7
+2002,2002Q4,Sports,Indoor Sports,Gymnastic Clothing,631,17303.94,30882.54
+2002,2002Q4,Sports,Indoor Sports,Top Trim,566,60631.5600000001,111508.46
+2002,2002Q4,Sports,Racket Sports,Badminton,287,29049.25,39778.9
+2002,2002Q4,Sports,Racket Sports,Racket Sports,1463,127070.5,216757.2
+2002,2002Q4,Sports,Racket Sports,Tennis,1211,30879.4900000001,53708.7899999998
+2002,2002Q4,Sports,Running - Jogging,Jogging,2055,70838.5699999999,125252.37
+2002,2002Q4,Sports,Running - Jogging,Running Clothes,3116,76700.6199999995,139560.17
+2002,2002Q4,Sports,Swim Sports,Bathing Suits,1898,40086.0500000002,68432.9000000002
+2002,2002Q4,Sports,Team Sports,American Football,1465,19107.2899999999,34711.0599999999
+2002,2002Q4,Sports,Team Sports,Baseball,1409,14803.77,25579.27
+2002,2002Q4,Sports,Team Sports,Basket Ball,470,5981.71999999997,9526.91999999997
+2002,2002Q4,Sports,Team Sports,Soccer,2983,53881.7200000002,104002.27
+2002,2002Q4,Sports,Winter Sports,Ski Dress,1438,199924,353498.449999999
+2002,2002Q4,Sports,Winter Sports,Winter Sports,2577,138617.06,248968.86
