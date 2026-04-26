@@ -1,4 +1,4 @@
-# PSGEL999: SAS Extension for Visual Studio Code
+# SAS Extension for Visual Studio Code
 ## Hands-On Workshop
 
 **Course Type:** Instructor-Led Workshop  
