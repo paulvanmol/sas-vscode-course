@@ -81,7 +81,8 @@ All profiles are stored under the `SAS.profiles` key in user settings.
     "host": "sas94.company.com",
     "port": 8591,
     "username": "your_username",
-    "saspath": "/SASFoundation/9.4"
+    "fileNavigationCustomRootPath": "d:\workshop",
+    "fileNavigationRoot": "CUSTOM"
   }
 }
 ```
@@ -92,7 +93,8 @@ All profiles are stored under the `SAS.profiles` key in user settings.
 | `host` | Yes | Hostname or IP of the SAS server |
 | `port` | Yes | Object Spawner port (default: 8591) |
 | `username` | Yes | SAS server username |
-| `saspath` | No | Path to SAS on the server |
+| `fileNavigationRoot` | No | "CUSTOM", "USER", "ROOT" Filenavigation from SAS Server |
+| `fileNavigationCustomRootPath`|No| Path to the initial folder from where Custom filnaviation starts|
 
 > **Password storage:** Passwords are stored in VS Code's secret storage (OS keychain), not in `settings.json`. You are prompted for the password on first connection.
 
